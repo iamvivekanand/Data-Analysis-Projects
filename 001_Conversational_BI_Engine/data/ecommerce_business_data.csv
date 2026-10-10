@@ -1,0 +1,1501 @@
+Order_Date,Region,Category,Sales_Channel,Units_Sold,Unit_Price,Discount_Pct,Revenue,Profit
+2024-01-01,South,Office Supplies,Direct Web,4,287.15,0.0,1148.6,408.24
+2024-01-01,West,Apparel,Retail Partner,12,42.61,0.2,409.06,180.88
+2024-01-01,East,Apparel,Amazon,7,215.99,0.05,1436.33,462.92
+2024-01-01,South,Office Supplies,Amazon,4,177.69,0.05,675.22,297.02
+2024-01-01,North,Electronics,Retail Partner,7,197.88,0.0,1385.16,366.71
+2024-01-02,North,Electronics,Amazon,7,325.28,0.1,2049.26,528.04
+2024-01-02,North,Apparel,Amazon,1,306.89,0.05,291.55,120.15
+2024-01-02,West,Electronics,Direct Web,6,278.0,0.0,1668.0,524.96
+2024-01-02,East,Office Supplies,Direct Web,9,106.69,0.0,960.21,414.37
+2024-01-03,East,Electronics,Direct Web,2,320.46,0.0,640.92,194.9
+2024-01-03,North,Apparel,Amazon,14,47.67,0.1,600.64,228.57
+2024-01-03,West,Office Supplies,Amazon,3,300.87,0.1,812.35,254.91
+2024-01-03,West,Electronics,Retail Partner,10,124.93,0.05,1186.83,445.57
+2024-01-04,North,Home Goods,Direct Web,5,33.01,0.1,148.55,62.52
+2024-01-04,North,Office Supplies,Amazon,9,239.23,0.0,2153.07,794.0
+2024-01-04,North,Office Supplies,Amazon,4,92.48,0.05,351.42,150.22
+2024-01-04,North,Home Goods,Amazon,1,96.6,0.05,91.77,30.71
+2024-01-05,South,Home Goods,Amazon,4,117.53,0.0,470.12,207.7
+2024-01-05,South,Office Supplies,Direct Web,6,36.33,0.1,196.18,67.59
+2024-01-05,North,Home Goods,Amazon,5,74.34,0.0,371.7,101.37
+2024-01-05,East,Apparel,Direct Web,14,16.72,0.0,234.08,66.11
+2024-01-06,North,Apparel,Direct Web,13,164.21,0.05,2027.99,554.54
+2024-01-06,North,Apparel,Direct Web,1,43.23,0.05,41.07,10.91
+2024-01-06,South,Office Supplies,Amazon,4,243.69,0.05,926.02,397.35
+2024-01-06,South,Home Goods,Retail Partner,6,93.93,0.0,563.58,239.1
+2024-01-07,East,Home Goods,Amazon,13,331.1,0.1,3873.87,1311.69
+2024-01-07,North,Electronics,Amazon,10,306.87,0.05,2915.26,790.63
+2024-01-07,South,Electronics,Amazon,10,111.96,0.05,1063.62,271.36
+2024-01-07,South,Home Goods,Amazon,14,277.38,0.2,3106.66,1369.25
+2024-01-08,North,Home Goods,Direct Web,4,284.09,0.1,1022.72,387.45
+2024-01-08,East,Home Goods,Direct Web,14,345.5,0.0,4837.0,1970.7
+2024-01-08,North,Office Supplies,Direct Web,9,215.28,0.1,1743.77,521.05
+2024-01-08,North,Home Goods,Direct Web,5,42.46,0.0,212.3,68.35
+2024-01-09,West,Electronics,Direct Web,8,231.69,0.0,1853.52,789.64
+2024-01-09,West,Office Supplies,Direct Web,9,224.37,0.05,1918.36,677.75
+2024-01-09,West,Home Goods,Direct Web,10,228.85,0.2,1830.8,572.88
+2024-01-09,North,Electronics,Retail Partner,5,117.89,0.0,589.45,173.42
+2024-01-10,North,Office Supplies,Direct Web,6,302.99,0.05,1727.04,770.24
+2024-01-10,East,Home Goods,Direct Web,1,336.42,0.0,336.42,91.47
+2024-01-10,South,Home Goods,Direct Web,11,87.93,0.1,870.51,292.62
+2024-01-10,North,Home Goods,Amazon,12,44.53,0.05,507.64,146.01
+2024-01-10,South,Office Supplies,Direct Web,7,80.17,0.05,533.13,153.76
+2024-01-11,North,Electronics,Direct Web,4,289.88,0.0,1159.52,477.76
+2024-01-11,West,Electronics,Amazon,11,241.68,0.1,2392.63,1023.96
+2024-01-11,North,Apparel,Direct Web,2,228.08,0.2,364.93,111.57
+2024-01-11,East,Home Goods,Direct Web,5,149.6,0.05,710.6,297.54
+2024-01-12,North,Apparel,Direct Web,12,208.57,0.05,2377.7,665.79
+2024-01-12,South,Apparel,Direct Web,3,118.14,0.2,283.54,86.41
+2024-01-12,South,Electronics,Direct Web,6,174.86,0.0,1049.16,295.48
+2024-01-12,North,Office Supplies,Direct Web,8,280.68,0.1,2020.9,788.55
+2024-01-13,West,Office Supplies,Amazon,7,343.72,0.1,2165.44,837.33
+2024-01-13,East,Electronics,Amazon,3,327.38,0.0,982.14,310.12
+2024-01-13,West,Office Supplies,Amazon,8,327.85,0.05,2491.66,1105.58
+2024-01-13,West,Apparel,Direct Web,2,149.74,0.0,299.48,91.25
+2024-01-14,South,Home Goods,Retail Partner,10,172.04,0.05,1634.38,462.27
+2024-01-14,West,Electronics,Direct Web,9,251.39,0.05,2149.38,788.75
+2024-01-14,North,Home Goods,Direct Web,4,323.93,0.0,1295.72,384.86
+2024-01-14,North,Office Supplies,Amazon,1,62.57,0.05,59.44,24.67
+2024-01-15,North,Home Goods,Direct Web,8,116.92,0.0,935.36,360.63
+2024-01-15,North,Office Supplies,Direct Web,7,61.65,0.0,431.55,110.11
+2024-01-15,South,Office Supplies,Amazon,11,220.02,0.0,2420.22,611.67
+2024-01-15,North,Apparel,Retail Partner,13,117.61,0.1,1376.04,478.14
+2024-01-16,West,Office Supplies,Direct Web,5,124.25,0.0,621.25,163.48
+2024-01-16,South,Apparel,Amazon,10,38.76,0.1,348.84,120.51
+2024-01-16,North,Apparel,Retail Partner,13,132.18,0.05,1632.42,639.39
+2024-01-16,South,Apparel,Direct Web,5,303.94,0.0,1519.7,602.74
+2024-01-17,North,Electronics,Direct Web,7,93.08,0.1,586.4,154.87
+2024-01-17,West,Electronics,Direct Web,5,247.89,0.05,1177.48,489.26
+2024-01-17,North,Office Supplies,Direct Web,8,225.93,0.05,1717.07,573.63
+2024-01-17,West,Apparel,Direct Web,11,304.27,0.0,3346.97,1134.27
+2024-01-18,East,Electronics,Retail Partner,13,59.32,0.0,771.16,232.95
+2024-01-18,North,Apparel,Amazon,6,342.49,0.0,2054.94,719.54
+2024-01-18,North,Home Goods,Amazon,13,210.18,0.0,2732.34,1080.76
+2024-01-18,West,Home Goods,Direct Web,5,348.48,0.0,1742.4,725.05
+2024-01-19,East,Home Goods,Amazon,9,320.36,0.0,2883.24,939.46
+2024-01-19,East,Office Supplies,Retail Partner,11,89.21,0.0,981.31,300.48
+2024-01-19,East,Apparel,Amazon,2,33.81,0.0,67.62,22.73
+2024-01-19,North,Home Goods,Direct Web,1,100.64,0.0,100.64,30.43
+2024-01-19,South,Electronics,Amazon,8,191.73,0.0,1533.84,646.81
+2024-01-20,North,Home Goods,Direct Web,12,72.48,0.2,695.81,190.31
+2024-01-20,West,Home Goods,Direct Web,3,71.1,0.0,213.3,71.14
+2024-01-20,East,Home Goods,Direct Web,14,169.97,0.05,2260.6,959.92
+2024-01-20,North,Office Supplies,Amazon,11,26.14,0.0,287.54,102.83
+2024-01-21,North,Electronics,Amazon,12,55.83,0.2,535.97,150.63
+2024-01-21,North,Apparel,Direct Web,12,154.31,0.0,1851.72,500.87
+2024-01-21,North,Electronics,Direct Web,12,36.15,0.2,347.04,137.8
+2024-01-21,East,Apparel,Direct Web,7,147.91,0.05,983.6,302.7
+2024-01-22,East,Office Supplies,Direct Web,10,173.79,0.0,1737.9,747.3
+2024-01-22,West,Office Supplies,Direct Web,13,166.17,0.1,1944.19,861.84
+2024-01-22,South,Office Supplies,Direct Web,11,306.17,0.05,3199.48,1081.17
+2024-01-22,North,Office Supplies,Amazon,8,192.57,0.0,1540.56,479.17
+2024-01-23,East,Apparel,Direct Web,13,171.77,0.1,2009.71,584.51
+2024-01-23,East,Home Goods,Direct Web,13,152.59,0.2,1586.94,606.14
+2024-01-23,South,Apparel,Direct Web,6,288.9,0.05,1646.73,738.88
+2024-01-23,East,Electronics,Retail Partner,12,314.84,0.0,3778.08,1337.8
+2024-01-24,South,Office Supplies,Amazon,10,300.84,0.1,2707.56,1209.82
+2024-01-24,South,Office Supplies,Amazon,14,240.64,0.05,3200.51,1381.35
+2024-01-24,South,Electronics,Direct Web,9,61.02,0.1,494.26,190.12
+2024-01-24,North,Apparel,Amazon,7,107.75,0.05,716.54,259.79
+2024-01-25,North,Home Goods,Direct Web,10,30.43,0.0,304.3,119.93
+2024-01-25,North,Home Goods,Amazon,5,326.83,0.2,1307.32,436.16
+2024-01-25,East,Electronics,Retail Partner,8,236.37,0.0,1890.96,830.0
+2024-01-25,North,Home Goods,Amazon,2,265.03,0.0,530.06,223.2
+2024-01-26,South,Apparel,Retail Partner,7,119.38,0.05,793.88,246.86
+2024-01-26,West,Apparel,Amazon,4,298.29,0.05,1133.5,477.85
+2024-01-26,North,Electronics,Direct Web,9,101.97,0.0,917.73,295.55
+2024-01-26,South,Apparel,Retail Partner,12,15.55,0.1,167.94,73.74
+2024-01-27,East,Office Supplies,Direct Web,1,141.1,0.0,141.1,52.0
+2024-01-27,North,Electronics,Amazon,7,206.21,0.05,1371.3,568.43
+2024-01-27,North,Apparel,Direct Web,6,175.37,0.1,947.0,405.38
+2024-01-27,North,Electronics,Direct Web,8,303.8,0.0,2430.4,818.06
+2024-01-28,North,Home Goods,Direct Web,5,50.31,0.0,251.55,66.49
+2024-01-28,West,Apparel,Direct Web,1,200.53,0.0,200.53,88.04
+2024-01-28,West,Office Supplies,Direct Web,1,186.85,0.2,149.48,54.66
+2024-01-28,East,Apparel,Amazon,9,109.27,0.0,983.43,303.38
+2024-01-29,West,Electronics,Direct Web,10,290.45,0.0,2904.5,1038.25
+2024-01-29,West,Electronics,Direct Web,6,267.2,0.05,1523.04,439.7
+2024-01-29,North,Apparel,Amazon,10,260.51,0.05,2474.84,1024.76
+2024-01-29,West,Office Supplies,Direct Web,5,308.52,0.0,1542.6,398.12
+2024-01-29,South,Office Supplies,Amazon,1,257.13,0.05,244.27,91.1
+2024-01-30,West,Office Supplies,Amazon,6,92.67,0.0,556.02,212.23
+2024-01-30,West,Electronics,Amazon,6,251.36,0.2,1206.53,331.89
+2024-01-30,North,Apparel,Amazon,3,118.08,0.0,354.24,119.46
+2024-01-30,North,Home Goods,Direct Web,13,96.13,0.0,1249.69,433.28
+2024-01-31,North,Electronics,Amazon,8,39.46,0.05,299.9,91.35
+2024-01-31,South,Office Supplies,Direct Web,14,264.25,0.0,3699.5,1235.76
+2024-01-31,West,Apparel,Direct Web,1,253.19,0.05,240.53,100.42
+2024-01-31,West,Office Supplies,Amazon,1,93.56,0.0,93.56,29.49
+2024-02-01,North,Home Goods,Direct Web,6,266.04,0.0,1596.24,675.7
+2024-02-01,South,Office Supplies,Amazon,10,322.48,0.1,2902.32,838.27
+2024-02-01,South,Office Supplies,Amazon,13,51.19,0.05,632.2,159.35
+2024-02-01,North,Home Goods,Retail Partner,1,92.93,0.05,88.28,33.06
+2024-02-02,North,Apparel,Retail Partner,6,266.34,0.0,1598.04,576.97
+2024-02-02,North,Electronics,Direct Web,1,106.96,0.0,106.96,47.14
+2024-02-02,West,Apparel,Direct Web,14,224.26,0.0,3139.64,1404.21
+2024-02-02,North,Home Goods,Amazon,13,42.19,0.0,548.47,145.74
+2024-02-03,South,Office Supplies,Direct Web,6,166.49,0.05,948.99,402.63
+2024-02-03,East,Apparel,Amazon,3,262.6,0.1,709.02,255.85
+2024-02-03,South,Electronics,Amazon,14,244.98,0.0,3429.72,984.09
+2024-02-03,West,Home Goods,Amazon,14,288.05,0.0,4032.7,1097.44
+2024-02-04,West,Apparel,Direct Web,8,308.95,0.0,2471.6,855.47
+2024-02-04,North,Electronics,Direct Web,13,274.02,0.0,3562.26,1200.46
+2024-02-04,South,Home Goods,Direct Web,6,239.98,0.0,1439.88,455.09
+2024-02-04,North,Electronics,Direct Web,13,25.63,0.2,266.55,68.7
+2024-02-05,North,Home Goods,Retail Partner,11,194.21,0.05,2029.49,668.65
+2024-02-05,North,Office Supplies,Direct Web,13,27.63,0.2,287.35,97.15
+2024-02-05,East,Apparel,Direct Web,1,285.7,0.1,257.13,114.96
+2024-02-05,South,Electronics,Direct Web,5,122.44,0.05,581.59,252.3
+2024-02-06,North,Home Goods,Amazon,8,203.41,0.05,1545.92,517.21
+2024-02-06,North,Electronics,Amazon,3,108.61,0.0,325.83,85.61
+2024-02-06,West,Electronics,Direct Web,12,277.14,0.05,3159.4,874.09
+2024-02-06,North,Apparel,Direct Web,6,311.98,0.2,1497.5,379.59
+2024-02-07,North,Office Supplies,Direct Web,5,148.55,0.0,742.75,255.83
+2024-02-07,South,Electronics,Direct Web,6,304.08,0.1,1642.03,480.15
+2024-02-07,West,Home Goods,Amazon,10,104.47,0.0,1044.7,294.52
+2024-02-07,North,Home Goods,Amazon,1,194.11,0.1,174.7,55.97
+2024-02-07,East,Office Supplies,Direct Web,7,302.69,0.2,1695.06,647.94
+2024-02-08,East,Home Goods,Direct Web,9,124.17,0.05,1061.65,377.95
+2024-02-08,North,Office Supplies,Retail Partner,2,334.6,0.05,635.74,177.0
+2024-02-08,East,Home Goods,Direct Web,10,55.83,0.05,530.38,207.0
+2024-02-08,South,Apparel,Amazon,5,21.12,0.1,95.04,25.21
+2024-02-09,East,Electronics,Direct Web,10,317.89,0.2,2543.12,1027.52
+2024-02-09,East,Apparel,Direct Web,4,38.0,0.1,136.8,41.05
+2024-02-09,South,Electronics,Direct Web,6,347.28,0.05,1979.5,641.14
+2024-02-09,North,Electronics,Amazon,6,333.72,0.05,1902.2,570.81
+2024-02-10,West,Electronics,Retail Partner,11,60.9,0.1,602.91,218.57
+2024-02-10,North,Apparel,Direct Web,2,195.09,0.05,370.67,97.66
+2024-02-10,North,Electronics,Direct Web,2,76.95,0.1,138.51,44.81
+2024-02-10,North,Apparel,Direct Web,4,158.43,0.05,602.03,236.2
+2024-02-11,South,Office Supplies,Direct Web,1,35.58,0.0,35.58,11.47
+2024-02-11,East,Home Goods,Direct Web,9,90.01,0.0,810.09,318.07
+2024-02-11,North,Home Goods,Direct Web,14,136.7,0.05,1818.11,711.38
+2024-02-11,South,Electronics,Amazon,14,161.95,0.0,2267.3,839.08
+2024-02-12,North,Apparel,Direct Web,13,342.46,0.0,4451.98,1244.39
+2024-02-12,East,Home Goods,Direct Web,7,285.63,0.05,1899.44,664.69
+2024-02-12,North,Apparel,Retail Partner,12,262.03,0.0,3144.36,988.02
+2024-02-12,East,Apparel,Direct Web,7,194.91,0.0,1364.37,507.01
+2024-02-13,South,Electronics,Retail Partner,3,296.4,0.1,800.28,317.93
+2024-02-13,West,Home Goods,Direct Web,11,128.67,0.2,1132.3,293.35
+2024-02-13,North,Electronics,Retail Partner,12,252.48,0.1,2726.78,897.88
+2024-02-13,North,Electronics,Amazon,3,347.92,0.2,835.01,219.78
+2024-02-14,North,Home Goods,Amazon,1,120.4,0.05,114.38,46.82
+2024-02-14,West,Home Goods,Retail Partner,3,240.8,0.0,722.4,303.86
+2024-02-14,West,Office Supplies,Direct Web,3,297.85,0.05,848.87,236.7
+2024-02-14,North,Office Supplies,Retail Partner,4,321.8,0.1,1158.48,363.55
+2024-02-15,East,Apparel,Direct Web,4,255.51,0.0,1022.04,421.78
+2024-02-15,West,Home Goods,Direct Web,3,110.01,0.0,330.03,130.73
+2024-02-15,South,Office Supplies,Direct Web,10,124.3,0.1,1118.7,324.27
+2024-02-15,South,Apparel,Amazon,12,21.95,0.0,263.4,94.62
+2024-02-16,North,Apparel,Direct Web,8,269.9,0.05,2051.24,647.97
+2024-02-16,North,Apparel,Amazon,8,29.32,0.0,234.56,90.62
+2024-02-16,West,Office Supplies,Amazon,13,304.66,0.05,3762.55,1406.27
+2024-02-16,West,Home Goods,Amazon,13,54.75,0.05,676.16,170.3
+2024-02-16,East,Electronics,Amazon,1,72.58,0.0,72.58,29.07
+2024-02-17,North,Apparel,Direct Web,7,174.64,0.0,1222.48,426.29
+2024-02-17,North,Office Supplies,Direct Web,11,262.19,0.05,2739.89,770.24
+2024-02-17,East,Office Supplies,Direct Web,2,61.57,0.1,110.83,44.57
+2024-02-17,West,Electronics,Direct Web,1,162.42,0.1,146.18,53.64
+2024-02-18,West,Electronics,Direct Web,3,176.76,0.05,503.77,164.72
+2024-02-18,East,Office Supplies,Direct Web,4,86.12,0.1,310.03,109.68
+2024-02-18,East,Home Goods,Direct Web,13,53.71,0.0,698.23,250.04
+2024-02-18,North,Electronics,Retail Partner,6,295.2,0.0,1771.2,668.62
+2024-02-19,North,Office Supplies,Amazon,10,183.33,0.0,1833.3,609.89
+2024-02-19,West,Electronics,Direct Web,14,19.82,0.05,263.61,85.71
+2024-02-19,East,Home Goods,Amazon,5,284.0,0.0,1420.0,453.47
+2024-02-19,North,Apparel,Direct Web,14,343.57,0.0,4809.98,2096.8
+2024-02-20,North,Electronics,Direct Web,4,217.99,0.05,828.36,268.22
+2024-02-20,East,Home Goods,Amazon,8,183.74,0.1,1322.93,343.11
+2024-02-20,North,Office Supplies,Direct Web,11,309.27,0.0,3401.97,1162.8
+2024-02-20,North,Electronics,Direct Web,12,334.09,0.0,4009.08,1230.57
+2024-02-21,South,Electronics,Retail Partner,14,267.77,0.05,3561.34,1206.06
+2024-02-21,East,Office Supplies,Retail Partner,4,164.23,0.05,624.07,174.15
+2024-02-21,East,Apparel,Amazon,13,213.39,0.05,2635.37,695.96
+2024-02-21,North,Office Supplies,Amazon,10,249.81,0.0,2498.1,1032.11
+2024-02-22,East,Electronics,Amazon,12,80.08,0.05,912.91,331.05
+2024-02-22,North,Office Supplies,Direct Web,13,164.81,0.1,1928.28,716.4
+2024-02-22,North,Home Goods,Direct Web,2,292.99,0.0,585.98,216.2
+2024-02-22,East,Office Supplies,Direct Web,3,234.33,0.2,562.39,238.96
+2024-02-23,East,Electronics,Direct Web,6,152.75,0.0,916.5,263.29
+2024-02-23,West,Office Supplies,Amazon,8,237.23,0.0,1897.84,840.45
+2024-02-23,East,Apparel,Direct Web,8,54.6,0.05,414.96,142.89
+2024-02-23,South,Office Supplies,Retail Partner,11,149.5,0.0,1644.5,522.33
+2024-02-24,North,Apparel,Retail Partner,9,280.7,0.0,2526.3,1032.01
+2024-02-24,South,Home Goods,Amazon,7,88.87,0.05,590.99,158.88
+2024-02-24,North,Apparel,Amazon,13,77.3,0.1,904.41,255.31
+2024-02-24,North,Office Supplies,Retail Partner,2,333.52,0.2,533.63,189.86
+2024-02-25,West,Electronics,Direct Web,8,85.32,0.05,648.43,238.47
+2024-02-25,South,Apparel,Amazon,7,102.41,0.0,716.87,288.67
+2024-02-25,West,Home Goods,Direct Web,8,339.82,0.05,2582.63,785.12
+2024-02-25,East,Apparel,Amazon,12,261.13,0.05,2976.88,1261.16
+2024-02-26,East,Apparel,Direct Web,3,249.36,0.1,673.27,211.37
+2024-02-26,South,Apparel,Retail Partner,7,300.73,0.1,1894.6,533.35
+2024-02-26,South,Home Goods,Retail Partner,10,53.8,0.1,484.2,195.76
+2024-02-26,South,Office Supplies,Direct Web,13,251.5,0.05,3106.02,859.48
+2024-02-26,North,Apparel,Direct Web,9,183.74,0.05,1570.98,696.47
+2024-02-27,East,Apparel,Retail Partner,3,292.77,0.0,878.31,234.9
+2024-02-27,North,Electronics,Direct Web,14,185.23,0.2,2074.58,884.45
+2024-02-27,North,Home Goods,Retail Partner,10,222.78,0.0,2227.8,714.79
+2024-02-27,East,Apparel,Amazon,6,175.04,0.0,1050.24,420.08
+2024-02-28,North,Home Goods,Direct Web,2,175.18,0.0,350.36,99.04
+2024-02-28,West,Apparel,Direct Web,2,272.27,0.1,490.09,170.33
+2024-02-28,West,Office Supplies,Direct Web,5,225.57,0.05,1071.46,453.18
+2024-02-28,West,Office Supplies,Amazon,5,227.14,0.05,1078.92,362.3
+2024-02-29,South,Apparel,Direct Web,13,165.84,0.2,1724.74,635.43
+2024-02-29,North,Office Supplies,Amazon,7,192.92,0.2,1080.35,343.24
+2024-02-29,West,Apparel,Direct Web,12,264.82,0.0,3177.84,869.52
+2024-02-29,South,Office Supplies,Amazon,2,291.69,0.0,583.38,214.76
+2024-03-01,West,Electronics,Retail Partner,11,248.35,0.1,2458.66,963.85
+2024-03-01,West,Electronics,Retail Partner,14,324.56,0.2,3635.07,1625.23
+2024-03-01,West,Electronics,Direct Web,13,289.81,0.05,3579.15,1199.13
+2024-03-01,North,Home Goods,Amazon,7,203.22,0.05,1351.41,499.41
+2024-03-02,South,Home Goods,Amazon,5,239.92,0.0,1199.6,449.93
+2024-03-02,West,Electronics,Amazon,14,325.31,0.1,4098.91,1694.54
+2024-03-02,North,Home Goods,Retail Partner,6,222.42,0.05,1267.79,461.46
+2024-03-02,North,Office Supplies,Direct Web,8,291.31,0.05,2213.96,560.38
+2024-03-03,South,Apparel,Direct Web,10,245.75,0.0,2457.5,959.53
+2024-03-03,West,Apparel,Retail Partner,13,199.9,0.2,2078.96,686.18
+2024-03-03,East,Apparel,Direct Web,14,96.02,0.05,1277.07,376.36
+2024-03-03,South,Electronics,Amazon,12,157.71,0.0,1892.52,568.07
+2024-03-04,North,Home Goods,Retail Partner,4,339.19,0.05,1288.92,495.26
+2024-03-04,East,Office Supplies,Direct Web,13,235.35,0.05,2906.57,952.85
+2024-03-04,West,Office Supplies,Retail Partner,7,204.07,0.05,1357.07,374.21
+2024-03-04,North,Electronics,Direct Web,6,327.54,0.1,1768.72,790.46
+2024-03-05,South,Office Supplies,Amazon,10,211.48,0.05,2009.06,728.99
+2024-03-05,West,Office Supplies,Amazon,2,191.24,0.2,305.98,123.97
+2024-03-05,East,Office Supplies,Retail Partner,8,269.37,0.0,2154.96,802.23
+2024-03-05,East,Office Supplies,Direct Web,10,253.74,0.0,2537.4,930.72
+2024-03-06,East,Home Goods,Direct Web,9,79.71,0.0,717.39,215.69
+2024-03-06,South,Office Supplies,Amazon,5,172.89,0.05,821.23,354.14
+2024-03-06,North,Apparel,Amazon,10,173.29,0.05,1646.26,572.05
+2024-03-06,West,Electronics,Amazon,4,141.71,0.1,510.16,172.01
+2024-03-06,West,Home Goods,Direct Web,6,188.29,0.1,1016.77,357.06
+2024-03-07,West,Office Supplies,Direct Web,8,153.39,0.05,1165.76,353.95
+2024-03-07,West,Home Goods,Direct Web,11,81.78,0.2,719.66,268.61
+2024-03-07,South,Office Supplies,Amazon,3,153.14,0.0,459.42,119.91
+2024-03-07,South,Apparel,Direct Web,10,39.21,0.1,352.89,124.8
+2024-03-08,East,Electronics,Direct Web,11,207.89,0.05,2172.45,729.42
+2024-03-08,East,Office Supplies,Retail Partner,11,300.97,0.05,3145.14,896.03
+2024-03-08,East,Office Supplies,Direct Web,1,257.97,0.1,232.17,91.7
+2024-03-08,East,Office Supplies,Retail Partner,4,135.73,0.05,515.77,224.34
+2024-03-09,West,Office Supplies,Amazon,4,44.17,0.0,176.68,54.5
+2024-03-09,North,Electronics,Amazon,1,82.72,0.05,78.58,27.77
+2024-03-09,South,Electronics,Direct Web,9,197.74,0.05,1690.68,457.67
+2024-03-09,North,Apparel,Direct Web,3,84.36,0.1,227.77,57.73
+2024-03-10,South,Electronics,Amazon,5,197.23,0.05,936.84,346.8
+2024-03-10,North,Office Supplies,Amazon,6,92.59,0.2,444.43,163.07
+2024-03-10,South,Apparel,Amazon,8,299.39,0.05,2275.36,838.26
+2024-03-10,South,Apparel,Direct Web,6,148.09,0.05,844.11,325.06
+2024-03-11,North,Apparel,Amazon,3,97.26,0.1,262.6,77.12
+2024-03-11,South,Office Supplies,Amazon,6,287.13,0.05,1636.64,488.05
+2024-03-11,North,Home Goods,Amazon,1,129.85,0.2,103.88,36.8
+2024-03-11,North,Office Supplies,Amazon,4,52.35,0.05,198.93,87.74
+2024-03-12,West,Electronics,Amazon,6,206.09,0.05,1174.71,455.89
+2024-03-12,South,Electronics,Amazon,7,209.82,0.0,1468.74,575.07
+2024-03-12,North,Office Supplies,Direct Web,11,254.42,0.05,2658.69,765.12
+2024-03-12,South,Office Supplies,Direct Web,13,95.47,0.0,1241.11,536.76
+2024-03-13,East,Apparel,Direct Web,11,163.66,0.1,1620.23,468.03
+2024-03-13,North,Office Supplies,Direct Web,10,109.59,0.0,1095.9,346.48
+2024-03-13,East,Apparel,Direct Web,3,42.12,0.0,126.36,38.35
+2024-03-13,North,Electronics,Direct Web,9,308.67,0.0,2778.03,1009.97
+2024-03-14,North,Apparel,Direct Web,12,259.17,0.0,3110.04,976.72
+2024-03-14,South,Office Supplies,Direct Web,12,115.99,0.0,1391.88,456.81
+2024-03-14,South,Electronics,Amazon,7,215.79,0.1,1359.48,402.68
+2024-03-14,East,Home Goods,Retail Partner,14,82.42,0.1,1038.49,374.53
+2024-03-15,East,Apparel,Direct Web,1,313.23,0.1,281.91,100.2
+2024-03-15,West,Electronics,Retail Partner,2,53.49,0.1,96.28,30.93
+2024-03-15,South,Apparel,Amazon,1,16.29,0.0,16.29,6.98
+2024-03-15,North,Electronics,Direct Web,11,183.17,0.1,1813.38,657.81
+2024-03-15,East,Electronics,Direct Web,9,210.35,0.0,1893.15,483.91
+2024-03-16,North,Apparel,Amazon,9,208.95,0.0,1880.55,832.12
+2024-03-16,South,Home Goods,Amazon,7,33.26,0.05,221.18,85.55
+2024-03-16,North,Electronics,Amazon,10,120.2,0.0,1202.0,465.39
+2024-03-16,North,Electronics,Direct Web,3,182.23,0.1,492.02,159.07
+2024-03-17,West,Electronics,Direct Web,13,87.55,0.0,1138.15,488.08
+2024-03-17,West,Home Goods,Direct Web,5,307.33,0.1,1382.98,448.49
+2024-03-17,East,Home Goods,Direct Web,4,44.18,0.05,167.88,72.35
+2024-03-17,South,Office Supplies,Direct Web,7,178.27,0.0,1247.89,537.85
+2024-03-18,North,Apparel,Direct Web,14,246.62,0.1,3107.41,945.78
+2024-03-18,North,Home Goods,Amazon,9,102.69,0.0,924.21,355.98
+2024-03-18,North,Apparel,Retail Partner,12,224.12,0.05,2554.97,650.28
+2024-03-18,South,Office Supplies,Direct Web,2,292.84,0.0,585.68,259.18
+2024-03-19,East,Apparel,Retail Partner,13,78.76,0.05,972.69,351.12
+2024-03-19,East,Home Goods,Direct Web,8,322.27,0.05,2449.25,1046.74
+2024-03-19,North,Apparel,Direct Web,9,200.44,0.0,1803.96,685.01
+2024-03-19,West,Home Goods,Direct Web,10,115.24,0.2,921.92,230.81
+2024-03-20,East,Apparel,Amazon,14,159.34,0.1,2007.68,546.55
+2024-03-20,South,Home Goods,Retail Partner,10,119.58,0.1,1076.22,473.9
+2024-03-20,East,Home Goods,Amazon,9,257.91,0.1,2089.07,704.75
+2024-03-20,South,Apparel,Direct Web,14,281.76,0.0,3944.64,1264.0
+2024-03-21,North,Office Supplies,Amazon,10,294.03,0.05,2793.28,1139.92
+2024-03-21,South,Electronics,Direct Web,14,345.23,0.0,4833.22,2034.68
+2024-03-21,East,Office Supplies,Retail Partner,7,280.08,0.0,1960.56,527.63
+2024-03-21,North,Apparel,Amazon,9,216.46,0.2,1558.51,399.35
+2024-03-22,North,Office Supplies,Direct Web,9,128.64,0.05,1099.87,276.75
+2024-03-22,North,Home Goods,Amazon,14,197.44,0.05,2625.95,766.9
+2024-03-22,North,Electronics,Amazon,3,28.76,0.0,86.28,27.38
+2024-03-22,West,Apparel,Direct Web,4,264.52,0.05,1005.18,382.83
+2024-03-23,East,Apparel,Amazon,2,164.4,0.0,328.8,136.69
+2024-03-23,South,Apparel,Direct Web,10,21.71,0.0,217.1,94.27
+2024-03-23,North,Electronics,Amazon,3,35.94,0.0,107.82,33.57
+2024-03-23,South,Home Goods,Amazon,11,144.8,0.05,1513.16,443.44
+2024-03-24,South,Apparel,Amazon,11,210.45,0.05,2199.2,626.13
+2024-03-24,North,Office Supplies,Amazon,5,170.51,0.0,852.55,227.84
+2024-03-24,South,Apparel,Amazon,5,222.43,0.1,1000.94,274.27
+2024-03-24,South,Apparel,Direct Web,6,175.9,0.0,1055.4,263.9
+2024-03-25,East,Apparel,Amazon,13,236.67,0.05,2922.87,1172.62
+2024-03-25,East,Apparel,Direct Web,7,88.41,0.2,495.1,147.21
+2024-03-25,North,Home Goods,Direct Web,7,52.8,0.05,351.12,116.82
+2024-03-25,South,Office Supplies,Direct Web,1,214.81,0.1,193.33,76.9
+2024-03-25,East,Home Goods,Direct Web,14,177.37,0.2,1986.54,503.82
+2024-03-26,South,Office Supplies,Amazon,2,24.0,0.05,45.6,12.33
+2024-03-26,West,Apparel,Direct Web,12,142.46,0.1,1538.57,652.81
+2024-03-26,East,Electronics,Amazon,9,50.55,0.1,409.46,182.11
+2024-03-26,North,Home Goods,Direct Web,10,193.0,0.0,1930.0,602.8
+2024-03-27,North,Electronics,Direct Web,2,147.59,0.0,295.18,97.17
+2024-03-27,East,Home Goods,Amazon,6,220.41,0.2,1057.97,278.07
+2024-03-27,North,Apparel,Direct Web,11,284.88,0.1,2820.31,1137.15
+2024-03-27,South,Home Goods,Direct Web,11,115.39,0.0,1269.29,549.76
+2024-03-28,West,Apparel,Amazon,1,337.3,0.05,320.44,127.59
+2024-03-28,South,Home Goods,Direct Web,3,194.44,0.1,524.99,234.26
+2024-03-28,South,Apparel,Amazon,2,222.13,0.05,422.05,186.89
+2024-03-28,East,Apparel,Direct Web,3,243.03,0.05,692.64,184.95
+2024-03-29,South,Office Supplies,Direct Web,5,238.36,0.1,1072.62,407.16
+2024-03-29,South,Apparel,Amazon,11,186.18,0.05,1945.58,715.66
+2024-03-29,West,Office Supplies,Direct Web,10,158.64,0.05,1507.08,672.65
+2024-03-29,South,Apparel,Direct Web,6,33.02,0.1,178.31,70.59
+2024-03-30,West,Electronics,Direct Web,9,22.4,0.1,181.44,52.45
+2024-03-30,West,Apparel,Direct Web,12,134.92,0.05,1538.09,502.8
+2024-03-30,North,Electronics,Amazon,11,126.78,0.0,1394.58,417.32
+2024-03-30,North,Electronics,Direct Web,10,144.88,0.05,1376.36,496.26
+2024-03-31,North,Apparel,Amazon,12,61.35,0.2,588.96,228.55
+2024-03-31,North,Electronics,Retail Partner,12,262.29,0.0,3147.48,1112.44
+2024-03-31,North,Office Supplies,Direct Web,13,302.08,0.0,3927.04,1513.43
+2024-03-31,East,Home Goods,Retail Partner,4,329.47,0.05,1251.99,353.32
+2024-04-01,North,Apparel,Direct Web,7,179.94,0.1,1133.62,442.64
+2024-04-01,North,Electronics,Retail Partner,6,249.79,0.0,1498.74,476.67
+2024-04-01,West,Apparel,Direct Web,2,301.61,0.0,603.22,254.92
+2024-04-01,North,Office Supplies,Amazon,10,155.13,0.0,1551.3,484.98
+2024-04-02,West,Apparel,Direct Web,11,118.65,0.1,1174.64,314.03
+2024-04-02,North,Apparel,Direct Web,11,328.8,0.0,3616.8,1187.34
+2024-04-02,North,Electronics,Amazon,11,187.75,0.0,2065.25,698.11
+2024-04-02,East,Office Supplies,Amazon,8,181.58,0.05,1380.01,355.73
+2024-04-03,East,Home Goods,Direct Web,7,74.77,0.1,471.05,152.87
+2024-04-03,West,Home Goods,Direct Web,7,51.23,0.05,340.68,135.62
+2024-04-03,East,Electronics,Amazon,14,297.11,0.0,4159.54,1628.55
+2024-04-03,West,Apparel,Amazon,8,220.73,0.05,1677.55,518.26
+2024-04-03,North,Electronics,Retail Partner,12,124.15,0.2,1191.84,361.02
+2024-04-04,North,Electronics,Amazon,12,79.23,0.05,903.22,351.62
+2024-04-04,East,Electronics,Retail Partner,13,201.09,0.2,2091.34,796.66
+2024-04-04,West,Apparel,Amazon,14,210.61,0.1,2653.69,668.17
+2024-04-04,West,Office Supplies,Direct Web,11,84.34,0.0,927.74,398.57
+2024-04-05,South,Electronics,Direct Web,1,300.22,0.05,285.21,105.26
+2024-04-05,South,Apparel,Amazon,13,43.23,0.0,561.99,245.88
+2024-04-05,East,Office Supplies,Amazon,1,134.29,0.05,127.58,36.46
+2024-04-05,North,Electronics,Direct Web,8,242.93,0.0,1943.44,838.65
+2024-04-06,West,Home Goods,Direct Web,4,106.83,0.0,427.32,134.69
+2024-04-06,West,Office Supplies,Retail Partner,5,292.27,0.2,1169.08,512.88
+2024-04-06,South,Electronics,Amazon,8,262.86,0.0,2102.88,663.31
+2024-04-06,East,Office Supplies,Direct Web,5,279.32,0.1,1256.94,353.69
+2024-04-07,East,Office Supplies,Direct Web,10,54.9,0.0,549.0,203.26
+2024-04-07,North,Office Supplies,Direct Web,4,62.08,0.0,248.32,85.81
+2024-04-07,West,Office Supplies,Direct Web,12,110.97,0.1,1198.48,443.07
+2024-04-07,South,Office Supplies,Direct Web,6,188.56,0.05,1074.79,419.06
+2024-04-08,West,Office Supplies,Direct Web,13,265.59,0.1,3107.4,899.12
+2024-04-08,North,Electronics,Amazon,12,295.24,0.0,3542.88,1401.56
+2024-04-08,West,Home Goods,Direct Web,5,250.95,0.05,1192.01,364.05
+2024-04-08,South,Apparel,Amazon,14,326.08,0.1,4108.61,1679.44
+2024-04-09,North,Office Supplies,Retail Partner,7,262.48,0.05,1745.49,698.25
+2024-04-09,West,Apparel,Direct Web,14,117.6,0.05,1564.08,598.59
+2024-04-09,North,Electronics,Amazon,10,103.8,0.2,830.4,275.83
+2024-04-09,North,Office Supplies,Direct Web,7,248.22,0.05,1650.66,592.78
+2024-04-10,West,Home Goods,Retail Partner,13,79.61,0.2,827.94,249.19
+2024-04-10,West,Apparel,Direct Web,4,46.06,0.1,165.82,67.54
+2024-04-10,South,Office Supplies,Amazon,12,193.29,0.1,2087.53,934.93
+2024-04-10,East,Electronics,Amazon,13,290.25,0.0,3773.25,1111.93
+2024-04-11,South,Home Goods,Direct Web,5,48.96,0.0,244.8,69.93
+2024-04-11,North,Apparel,Direct Web,13,280.28,0.1,3279.28,1436.67
+2024-04-11,North,Apparel,Amazon,3,286.88,0.0,860.64,282.13
+2024-04-11,East,Office Supplies,Amazon,4,176.56,0.0,706.24,264.39
+2024-04-12,East,Home Goods,Direct Web,14,34.2,0.0,478.8,139.44
+2024-04-12,East,Home Goods,Amazon,4,73.49,0.0,293.96,80.87
+2024-04-12,East,Home Goods,Direct Web,3,251.99,0.2,604.78,169.22
+2024-04-12,North,Home Goods,Amazon,13,253.45,0.1,2965.36,873.47
+2024-04-12,South,Electronics,Direct Web,10,315.95,0.05,3001.52,1189.17
+2024-04-13,North,Home Goods,Retail Partner,5,210.2,0.0,1051.0,302.29
+2024-04-13,South,Apparel,Direct Web,5,56.58,0.1,254.61,87.41
+2024-04-13,South,Apparel,Direct Web,11,55.67,0.05,581.75,255.65
+2024-04-13,West,Electronics,Direct Web,7,256.58,0.2,1436.85,515.27
+2024-04-14,South,Apparel,Direct Web,4,76.57,0.05,290.97,76.11
+2024-04-14,North,Apparel,Amazon,13,125.01,0.0,1625.13,442.73
+2024-04-14,North,Home Goods,Direct Web,4,178.22,0.05,677.24,290.91
+2024-04-14,East,Apparel,Amazon,9,23.3,0.2,167.76,50.53
+2024-04-15,East,Electronics,Direct Web,6,98.35,0.05,560.6,161.92
+2024-04-15,North,Home Goods,Direct Web,4,151.64,0.05,576.23,228.03
+2024-04-15,North,Office Supplies,Direct Web,2,108.68,0.0,217.36,77.31
+2024-04-15,East,Home Goods,Direct Web,6,60.68,0.1,327.67,100.86
+2024-04-16,North,Electronics,Direct Web,2,258.88,0.1,465.98,168.77
+2024-04-16,West,Home Goods,Direct Web,5,287.4,0.0,1437.0,614.23
+2024-04-16,East,Home Goods,Direct Web,6,101.26,0.05,577.18,178.25
+2024-04-16,North,Electronics,Direct Web,4,274.43,0.0,1097.72,293.83
+2024-04-17,North,Home Goods,Amazon,14,144.16,0.0,2018.24,644.83
+2024-04-17,West,Electronics,Amazon,13,184.74,0.0,2401.62,709.05
+2024-04-17,South,Electronics,Direct Web,3,301.76,0.0,905.28,342.49
+2024-04-17,South,Office Supplies,Direct Web,7,266.23,0.05,1770.43,731.83
+2024-04-18,West,Apparel,Retail Partner,2,284.71,0.0,569.42,183.04
+2024-04-18,West,Apparel,Amazon,13,60.84,0.0,790.92,304.07
+2024-04-18,West,Home Goods,Amazon,11,38.36,0.1,379.76,105.57
+2024-04-18,East,Home Goods,Direct Web,14,314.29,0.05,4180.06,1778.51
+2024-04-19,South,Office Supplies,Amazon,6,144.92,0.05,826.04,300.11
+2024-04-19,North,Office Supplies,Amazon,13,111.44,0.05,1376.28,510.12
+2024-04-19,East,Office Supplies,Amazon,4,257.77,0.05,979.53,257.02
+2024-04-19,South,Electronics,Retail Partner,6,295.2,0.0,1771.2,742.79
+2024-04-20,South,Office Supplies,Direct Web,4,303.93,0.1,1094.15,490.21
+2024-04-20,West,Office Supplies,Direct Web,4,120.86,0.0,483.44,194.53
+2024-04-20,North,Home Goods,Amazon,4,300.49,0.05,1141.86,326.51
+2024-04-20,South,Office Supplies,Amazon,9,28.71,0.0,258.39,105.46
+2024-04-21,North,Electronics,Direct Web,7,31.64,0.1,199.33,80.1
+2024-04-21,South,Electronics,Direct Web,3,223.88,0.05,638.06,270.55
+2024-04-21,North,Home Goods,Direct Web,3,36.14,0.05,103.0,31.61
+2024-04-21,North,Office Supplies,Direct Web,6,123.74,0.0,742.44,323.83
+2024-04-22,North,Office Supplies,Amazon,6,240.37,0.05,1370.11,525.79
+2024-04-22,East,Electronics,Amazon,4,127.98,0.2,409.54,161.15
+2024-04-22,East,Office Supplies,Direct Web,9,75.17,0.1,608.88,206.39
+2024-04-22,South,Office Supplies,Direct Web,4,109.25,0.0,437.0,132.81
+2024-04-22,West,Office Supplies,Direct Web,9,168.29,0.0,1514.61,520.15
+2024-04-23,South,Apparel,Direct Web,4,174.25,0.2,557.6,147.09
+2024-04-23,North,Home Goods,Amazon,2,277.31,0.05,526.89,136.84
+2024-04-23,West,Apparel,Retail Partner,2,266.3,0.05,505.97,191.11
+2024-04-23,North,Home Goods,Amazon,5,168.03,0.2,672.12,197.92
+2024-04-24,West,Electronics,Direct Web,4,298.3,0.1,1073.88,324.57
+2024-04-24,North,Office Supplies,Retail Partner,7,53.27,0.05,354.25,96.15
+2024-04-24,West,Home Goods,Amazon,14,100.54,0.05,1337.18,481.93
+2024-04-24,North,Apparel,Amazon,11,292.37,0.0,3216.07,1106.02
+2024-04-25,West,Office Supplies,Direct Web,5,141.63,0.1,637.34,233.81
+2024-04-25,South,Electronics,Direct Web,6,343.7,0.0,2062.2,577.26
+2024-04-25,West,Home Goods,Direct Web,10,171.19,0.0,1711.9,691.71
+2024-04-25,North,Home Goods,Direct Web,4,280.3,0.0,1121.2,450.79
+2024-04-26,South,Home Goods,Direct Web,13,149.77,0.0,1947.01,731.06
+2024-04-26,West,Office Supplies,Direct Web,12,157.36,0.05,1793.9,724.61
+2024-04-26,South,Apparel,Direct Web,2,143.27,0.05,272.21,91.95
+2024-04-26,East,Apparel,Amazon,13,255.89,0.05,3160.24,1337.1
+2024-04-27,East,Home Goods,Direct Web,10,198.42,0.0,1984.2,765.83
+2024-04-27,South,Electronics,Direct Web,9,331.17,0.2,2384.42,637.38
+2024-04-27,East,Electronics,Retail Partner,10,99.05,0.0,990.5,364.66
+2024-04-27,South,Apparel,Retail Partner,7,48.69,0.1,306.75,92.13
+2024-04-28,West,Electronics,Amazon,4,146.74,0.2,469.57,200.65
+2024-04-28,North,Apparel,Retail Partner,3,221.6,0.05,631.56,252.93
+2024-04-28,North,Home Goods,Amazon,10,303.37,0.05,2882.02,831.55
+2024-04-28,West,Apparel,Retail Partner,14,130.98,0.2,1466.98,436.28
+2024-04-29,West,Apparel,Direct Web,3,234.02,0.0,702.06,261.71
+2024-04-29,South,Home Goods,Direct Web,9,132.32,0.05,1131.34,293.15
+2024-04-29,East,Electronics,Direct Web,5,221.77,0.05,1053.41,282.18
+2024-04-29,North,Apparel,Direct Web,13,311.41,0.0,4048.33,1042.61
+2024-04-30,North,Apparel,Direct Web,3,92.5,0.1,249.75,91.01
+2024-04-30,South,Home Goods,Amazon,5,150.42,0.1,676.89,277.87
+2024-04-30,South,Electronics,Amazon,2,347.74,0.1,625.93,203.22
+2024-04-30,South,Apparel,Amazon,11,305.97,0.0,3365.67,1053.61
+2024-05-01,North,Home Goods,Direct Web,4,204.15,0.0,816.6,346.98
+2024-05-01,West,Apparel,Amazon,10,188.07,0.05,1786.66,522.96
+2024-05-01,West,Office Supplies,Amazon,2,110.34,0.0,220.68,98.51
+2024-05-01,East,Home Goods,Direct Web,2,188.27,0.05,357.71,126.43
+2024-05-01,South,Electronics,Amazon,12,299.14,0.05,3410.2,1308.82
+2024-05-02,North,Electronics,Direct Web,8,244.53,0.05,1858.43,561.13
+2024-05-02,West,Electronics,Direct Web,1,112.16,0.05,106.55,41.28
+2024-05-02,East,Electronics,Retail Partner,14,82.49,0.05,1097.12,312.28
+2024-05-02,North,Apparel,Direct Web,7,103.84,0.0,726.88,240.6
+2024-05-03,West,Apparel,Direct Web,5,71.87,0.0,359.35,104.65
+2024-05-03,West,Electronics,Retail Partner,11,47.04,0.05,491.57,123.94
+2024-05-03,West,Electronics,Amazon,8,155.41,0.05,1181.12,371.07
+2024-05-03,East,Electronics,Direct Web,1,52.96,0.1,47.66,12.06
+2024-05-04,East,Apparel,Direct Web,11,72.59,0.1,718.64,319.24
+2024-05-04,South,Electronics,Direct Web,7,198.35,0.2,1110.76,424.72
+2024-05-04,West,Electronics,Amazon,5,70.14,0.0,350.7,150.25
+2024-05-04,West,Office Supplies,Direct Web,4,36.4,0.0,145.6,57.88
+2024-05-05,North,Office Supplies,Direct Web,7,121.33,0.0,849.31,239.69
+2024-05-05,North,Electronics,Retail Partner,10,88.81,0.1,799.29,354.51
+2024-05-05,South,Home Goods,Amazon,2,187.63,0.05,356.5,123.34
+2024-05-05,West,Electronics,Direct Web,12,49.29,0.1,532.33,179.17
+2024-05-06,West,Office Supplies,Amazon,1,266.84,0.05,253.5,85.62
+2024-05-06,North,Home Goods,Amazon,1,318.59,0.2,254.87,90.46
+2024-05-06,South,Home Goods,Direct Web,11,264.05,0.2,2323.64,678.22
+2024-05-06,South,Electronics,Direct Web,12,193.5,0.0,2322.0,982.88
+2024-05-07,West,Office Supplies,Amazon,1,303.32,0.05,288.15,111.77
+2024-05-07,West,Office Supplies,Direct Web,12,247.8,0.05,2824.92,923.34
+2024-05-07,West,Home Goods,Amazon,5,18.53,0.0,92.65,28.89
+2024-05-07,South,Electronics,Direct Web,10,147.02,0.05,1396.69,515.62
+2024-05-08,South,Apparel,Direct Web,7,300.07,0.05,1995.47,548.61
+2024-05-08,North,Apparel,Direct Web,2,130.86,0.0,261.72,96.03
+2024-05-08,North,Office Supplies,Direct Web,10,26.8,0.05,254.6,94.06
+2024-05-08,West,Apparel,Direct Web,8,264.97,0.05,2013.77,891.61
+2024-05-09,West,Office Supplies,Direct Web,4,283.68,0.0,1134.72,385.55
+2024-05-09,West,Office Supplies,Amazon,12,68.8,0.05,784.32,241.78
+2024-05-09,West,Office Supplies,Retail Partner,3,195.01,0.0,585.03,249.87
+2024-05-09,South,Apparel,Amazon,10,79.31,0.1,713.79,277.6
+2024-05-10,East,Office Supplies,Retail Partner,11,255.94,0.0,2815.34,827.0
+2024-05-10,West,Home Goods,Direct Web,8,105.97,0.1,762.98,287.5
+2024-05-10,West,Electronics,Retail Partner,2,120.93,0.05,229.77,92.29
+2024-05-10,North,Electronics,Direct Web,11,298.07,0.0,3278.77,1034.65
+2024-05-11,South,Office Supplies,Retail Partner,11,174.57,0.05,1824.26,749.13
+2024-05-11,North,Electronics,Retail Partner,13,239.37,0.05,2956.22,800.75
+2024-05-11,West,Apparel,Amazon,3,149.79,0.05,426.9,183.09
+2024-05-11,East,Apparel,Retail Partner,12,114.83,0.05,1309.06,404.09
+2024-05-11,North,Electronics,Amazon,3,224.54,0.05,639.94,224.04
+2024-05-12,East,Apparel,Direct Web,10,66.88,0.0,668.8,184.6
+2024-05-12,East,Electronics,Direct Web,11,139.95,0.0,1539.45,653.9
+2024-05-12,South,Electronics,Amazon,1,85.03,0.1,76.53,24.06
+2024-05-12,North,Electronics,Direct Web,6,248.09,0.05,1414.11,474.56
+2024-05-13,East,Office Supplies,Amazon,2,331.31,0.0,662.62,234.56
+2024-05-13,South,Electronics,Retail Partner,1,348.5,0.1,313.65,110.32
+2024-05-13,East,Office Supplies,Direct Web,2,165.84,0.0,331.68,101.36
+2024-05-13,South,Electronics,Amazon,12,99.6,0.1,1075.68,282.31
+2024-05-14,West,Electronics,Retail Partner,6,163.35,0.0,980.1,423.16
+2024-05-14,South,Electronics,Retail Partner,14,298.84,0.0,4183.76,1866.37
+2024-05-14,South,Apparel,Retail Partner,4,84.01,0.2,268.83,77.65
+2024-05-14,West,Office Supplies,Amazon,6,333.95,0.0,2003.7,858.32
+2024-05-15,South,Office Supplies,Retail Partner,12,129.53,0.1,1398.92,353.45
+2024-05-15,North,Electronics,Amazon,9,345.24,0.0,3107.16,1013.34
+2024-05-15,North,Electronics,Direct Web,13,295.93,0.05,3654.74,1168.88
+2024-05-15,East,Apparel,Direct Web,10,285.87,0.1,2572.83,1055.43
+2024-05-16,East,Apparel,Amazon,12,121.5,0.0,1458.0,586.02
+2024-05-16,East,Apparel,Direct Web,10,17.94,0.1,161.46,51.37
+2024-05-16,North,Office Supplies,Amazon,8,143.01,0.05,1086.88,291.34
+2024-05-16,North,Office Supplies,Amazon,1,116.11,0.05,110.3,27.96
+2024-05-17,North,Office Supplies,Direct Web,13,27.53,0.05,340.0,139.53
+2024-05-17,South,Electronics,Amazon,8,184.3,0.1,1326.96,561.54
+2024-05-17,South,Office Supplies,Amazon,9,150.02,0.0,1350.18,592.35
+2024-05-17,South,Home Goods,Direct Web,6,227.58,0.0,1365.48,377.34
+2024-05-18,South,Home Goods,Direct Web,10,223.1,0.1,2007.9,785.2
+2024-05-18,West,Apparel,Direct Web,5,55.45,0.1,249.52,112.19
+2024-05-18,North,Office Supplies,Direct Web,6,342.28,0.0,2053.68,832.23
+2024-05-18,South,Home Goods,Retail Partner,13,77.62,0.05,958.61,366.1
+2024-05-19,East,Apparel,Direct Web,6,164.17,0.05,935.77,235.63
+2024-05-19,South,Office Supplies,Amazon,9,178.52,0.05,1526.35,527.04
+2024-05-19,East,Electronics,Direct Web,4,287.38,0.0,1149.52,470.22
+2024-05-19,West,Home Goods,Direct Web,2,48.24,0.05,91.66,35.11
+2024-05-20,West,Electronics,Amazon,11,158.6,0.0,1744.6,669.82
+2024-05-20,North,Office Supplies,Amazon,11,225.55,0.1,2232.95,996.02
+2024-05-20,West,Home Goods,Direct Web,9,87.08,0.1,705.35,298.34
+2024-05-20,South,Office Supplies,Direct Web,2,225.2,0.05,427.88,133.05
+2024-05-20,North,Electronics,Direct Web,10,324.43,0.0,3244.3,1381.91
+2024-05-21,South,Home Goods,Direct Web,9,349.17,0.0,3142.53,1269.12
+2024-05-21,West,Electronics,Amazon,2,25.87,0.05,49.15,18.67
+2024-05-21,South,Office Supplies,Direct Web,12,93.92,0.1,1014.34,302.73
+2024-05-21,North,Office Supplies,Direct Web,8,118.95,0.0,951.6,317.38
+2024-05-22,East,Electronics,Direct Web,9,148.71,0.05,1271.47,396.95
+2024-05-22,North,Home Goods,Retail Partner,12,96.16,0.0,1153.92,388.41
+2024-05-22,North,Electronics,Retail Partner,10,83.17,0.0,831.7,260.56
+2024-05-22,North,Office Supplies,Direct Web,9,334.78,0.0,3013.02,1354.15
+2024-05-23,North,Electronics,Amazon,10,322.7,0.0,3227.0,851.35
+2024-05-23,North,Office Supplies,Direct Web,9,30.74,0.0,276.66,118.36
+2024-05-23,North,Electronics,Direct Web,2,128.5,0.05,244.15,90.03
+2024-05-23,East,Home Goods,Amazon,4,150.72,0.1,542.59,160.49
+2024-05-24,North,Home Goods,Retail Partner,7,95.07,0.1,598.94,217.39
+2024-05-24,North,Electronics,Retail Partner,12,225.67,0.0,2708.04,705.8
+2024-05-24,West,Electronics,Amazon,2,229.53,0.0,459.06,163.65
+2024-05-24,South,Home Goods,Direct Web,1,299.92,0.0,299.92,82.48
+2024-05-25,East,Office Supplies,Amazon,3,263.19,0.0,789.57,227.27
+2024-05-25,North,Home Goods,Direct Web,12,196.76,0.05,2243.06,569.29
+2024-05-25,North,Office Supplies,Amazon,4,233.95,0.05,889.01,235.31
+2024-05-25,North,Electronics,Direct Web,8,106.79,0.0,854.32,230.99
+2024-05-26,North,Electronics,Amazon,6,213.67,0.0,1282.02,389.32
+2024-05-26,North,Office Supplies,Direct Web,11,178.89,0.0,1967.79,741.07
+2024-05-26,North,Electronics,Direct Web,2,59.67,0.0,119.34,51.17
+2024-05-26,North,Office Supplies,Retail Partner,9,96.25,0.1,779.62,243.45
+2024-05-27,North,Apparel,Direct Web,14,112.72,0.0,1578.08,401.26
+2024-05-27,South,Home Goods,Amazon,2,324.64,0.05,616.82,187.93
+2024-05-27,North,Apparel,Direct Web,13,92.18,0.05,1138.42,300.83
+2024-05-27,South,Office Supplies,Direct Web,12,111.9,0.1,1208.52,349.43
+2024-05-28,South,Home Goods,Direct Web,5,138.73,0.1,624.28,260.56
+2024-05-28,East,Office Supplies,Direct Web,12,237.35,0.1,2563.38,1025.76
+2024-05-28,North,Home Goods,Retail Partner,4,54.61,0.0,218.44,83.36
+2024-05-28,East,Home Goods,Direct Web,13,334.57,0.05,4131.94,1720.32
+2024-05-29,East,Home Goods,Retail Partner,7,304.97,0.1,1921.31,641.08
+2024-05-29,North,Home Goods,Amazon,8,208.37,0.0,1666.96,424.92
+2024-05-29,West,Office Supplies,Direct Web,5,240.8,0.05,1143.8,340.52
+2024-05-29,West,Home Goods,Amazon,10,20.58,0.1,185.22,67.67
+2024-05-29,North,Home Goods,Amazon,14,128.55,0.05,1709.72,767.83
+2024-05-30,North,Apparel,Amazon,14,281.55,0.0,3941.7,1526.8
+2024-05-30,West,Electronics,Direct Web,5,40.96,0.0,204.8,70.58
+2024-05-30,East,Electronics,Direct Web,2,109.58,0.05,208.2,80.19
+2024-05-30,North,Apparel,Retail Partner,8,211.07,0.0,1688.56,722.35
+2024-05-31,North,Apparel,Retail Partner,14,100.9,0.05,1341.97,485.05
+2024-05-31,South,Office Supplies,Retail Partner,2,327.88,0.1,590.18,235.69
+2024-05-31,South,Office Supplies,Direct Web,10,58.9,0.0,589.0,157.94
+2024-05-31,East,Office Supplies,Amazon,12,282.13,0.1,3047.0,1309.14
+2024-06-01,South,Apparel,Direct Web,6,185.16,0.05,1055.41,464.56
+2024-06-01,South,Apparel,Direct Web,8,266.36,0.0,2130.88,956.63
+2024-06-01,East,Home Goods,Direct Web,6,119.09,0.1,643.09,247.19
+2024-06-01,North,Office Supplies,Amazon,4,187.35,0.1,674.46,214.43
+2024-06-02,North,Office Supplies,Direct Web,13,302.04,0.05,3730.19,1133.67
+2024-06-02,East,Office Supplies,Direct Web,4,171.4,0.1,617.04,221.73
+2024-06-02,West,Electronics,Retail Partner,6,135.51,0.1,731.75,229.14
+2024-06-02,South,Home Goods,Direct Web,14,194.61,0.1,2452.09,926.93
+2024-06-03,South,Office Supplies,Direct Web,13,255.32,0.05,3153.2,997.79
+2024-06-03,North,Office Supplies,Direct Web,4,163.59,0.1,588.92,260.23
+2024-06-03,South,Office Supplies,Retail Partner,8,329.52,0.2,2108.93,784.2
+2024-06-03,South,Electronics,Amazon,9,113.81,0.1,921.86,269.03
+2024-06-04,North,Electronics,Direct Web,1,174.28,0.0,174.28,50.44
+2024-06-04,North,Apparel,Amazon,13,268.57,0.05,3316.84,1017.51
+2024-06-04,South,Home Goods,Amazon,4,245.86,0.05,934.27,382.26
+2024-06-04,North,Apparel,Direct Web,4,304.32,0.0,1217.28,487.59
+2024-06-05,North,Home Goods,Amazon,2,348.93,0.2,558.29,140.01
+2024-06-05,North,Electronics,Amazon,6,158.0,0.0,948.0,407.0
+2024-06-05,North,Office Supplies,Amazon,3,52.24,0.0,156.72,64.86
+2024-06-05,North,Apparel,Direct Web,7,25.19,0.2,141.06,59.81
+2024-06-06,West,Office Supplies,Retail Partner,13,258.5,0.05,3192.48,1227.41
+2024-06-06,South,Apparel,Amazon,11,307.79,0.0,3385.69,1381.24
+2024-06-06,East,Electronics,Direct Web,11,88.94,0.05,929.42,325.73
+2024-06-06,East,Electronics,Direct Web,5,68.08,0.05,323.38,114.73
+2024-06-07,South,Electronics,Direct Web,4,35.84,0.0,143.36,38.66
+2024-06-07,North,Apparel,Direct Web,5,290.61,0.2,1162.44,515.02
+2024-06-07,South,Home Goods,Amazon,8,119.31,0.05,906.76,350.03
+2024-06-07,South,Apparel,Direct Web,3,149.57,0.05,426.27,140.95
+2024-06-08,East,Home Goods,Direct Web,14,183.42,0.05,2439.49,802.69
+2024-06-08,South,Apparel,Amazon,7,296.22,0.05,1969.86,697.28
+2024-06-08,North,Apparel,Direct Web,14,233.03,0.0,3262.42,935.88
+2024-06-08,North,Electronics,Retail Partner,6,221.05,0.0,1326.3,580.2
+2024-06-08,South,Office Supplies,Direct Web,12,73.85,0.05,841.89,241.54
+2024-06-09,East,Office Supplies,Direct Web,1,186.92,0.1,168.23,59.06
+2024-06-09,South,Home Goods,Direct Web,13,254.65,0.0,3310.45,1401.14
+2024-06-09,South,Office Supplies,Direct Web,7,341.04,0.05,2267.92,618.82
+2024-06-09,West,Apparel,Direct Web,14,82.47,0.1,1039.12,332.68
+2024-06-10,East,Apparel,Amazon,13,18.2,0.0,236.6,98.73
+2024-06-10,North,Electronics,Retail Partner,7,40.23,0.0,281.61,124.83
+2024-06-10,North,Electronics,Direct Web,14,140.91,0.0,1972.74,832.06
+2024-06-10,North,Office Supplies,Amazon,12,289.88,0.05,3304.63,1084.71
+2024-06-11,North,Home Goods,Amazon,1,17.39,0.0,17.39,7.2
+2024-06-11,North,Office Supplies,Amazon,9,168.0,0.05,1436.4,581.52
+2024-06-11,North,Office Supplies,Direct Web,6,125.29,0.05,714.15,317.78
+2024-06-11,North,Office Supplies,Direct Web,12,32.58,0.05,371.41,113.43
+2024-06-12,North,Office Supplies,Direct Web,2,165.83,0.0,331.66,95.49
+2024-06-12,West,Apparel,Amazon,5,100.34,0.05,476.61,138.52
+2024-06-12,North,Home Goods,Amazon,13,132.88,0.1,1554.7,659.95
+2024-06-12,South,Apparel,Direct Web,11,251.38,0.2,2212.14,595.82
+2024-06-13,South,Home Goods,Direct Web,4,189.72,0.1,682.99,215.51
+2024-06-13,West,Electronics,Retail Partner,7,56.76,0.05,377.45,102.1
+2024-06-13,North,Office Supplies,Amazon,8,337.07,0.05,2561.73,923.68
+2024-06-13,South,Apparel,Retail Partner,11,228.03,0.0,2508.33,909.54
+2024-06-14,West,Home Goods,Amazon,14,271.57,0.0,3801.98,1114.33
+2024-06-14,West,Electronics,Direct Web,11,41.54,0.0,456.94,197.1
+2024-06-14,West,Electronics,Amazon,1,30.76,0.05,29.22,10.11
+2024-06-14,North,Office Supplies,Amazon,5,21.52,0.0,107.6,30.42
+2024-06-15,North,Home Goods,Direct Web,3,78.25,0.0,234.75,66.66
+2024-06-15,East,Apparel,Amazon,1,153.83,0.2,123.06,31.84
+2024-06-15,West,Office Supplies,Amazon,12,328.5,0.0,3942.0,1223.38
+2024-06-15,South,Apparel,Direct Web,3,168.11,0.0,504.33,205.99
+2024-06-16,South,Electronics,Amazon,14,112.24,0.0,1571.36,700.74
+2024-06-16,North,Apparel,Amazon,6,203.25,0.05,1158.52,410.25
+2024-06-16,East,Apparel,Retail Partner,14,52.5,0.05,698.25,242.47
+2024-06-16,North,Office Supplies,Direct Web,7,219.18,0.0,1534.26,616.69
+2024-06-17,North,Apparel,Direct Web,8,205.42,0.05,1561.19,663.6
+2024-06-17,South,Office Supplies,Amazon,13,280.32,0.1,3279.74,1091.36
+2024-06-17,South,Electronics,Direct Web,11,345.54,0.1,3420.85,1016.5
+2024-06-17,North,Office Supplies,Amazon,4,99.04,0.2,316.93,79.67
+2024-06-17,North,Office Supplies,Amazon,3,185.73,0.1,501.47,149.61
+2024-06-18,East,Home Goods,Direct Web,5,319.47,0.05,1517.48,442.0
+2024-06-18,North,Apparel,Amazon,9,278.04,0.0,2502.36,817.54
+2024-06-18,South,Electronics,Amazon,13,178.28,0.0,2317.64,585.94
+2024-06-18,North,Office Supplies,Direct Web,6,331.7,0.0,1990.2,640.86
+2024-06-19,South,Electronics,Retail Partner,9,34.17,0.05,292.15,81.2
+2024-06-19,South,Home Goods,Amazon,6,326.88,0.1,1765.15,460.43
+2024-06-19,North,Apparel,Amazon,2,31.92,0.05,60.65,16.01
+2024-06-19,North,Office Supplies,Amazon,13,198.35,0.0,2578.55,963.65
+2024-06-20,North,Apparel,Direct Web,5,313.3,0.05,1488.18,646.27
+2024-06-20,North,Home Goods,Retail Partner,12,103.01,0.2,988.9,411.01
+2024-06-20,West,Home Goods,Amazon,11,173.2,0.05,1809.94,793.03
+2024-06-20,North,Electronics,Amazon,9,123.65,0.1,1001.56,429.59
+2024-06-21,West,Office Supplies,Retail Partner,8,333.97,0.1,2404.58,993.26
+2024-06-21,North,Electronics,Direct Web,7,290.92,0.2,1629.15,621.98
+2024-06-21,East,Home Goods,Amazon,1,252.52,0.1,227.27,77.57
+2024-06-21,East,Apparel,Direct Web,4,211.86,0.1,762.7,234.66
+2024-06-22,South,Electronics,Direct Web,12,289.9,0.0,3478.8,1418.71
+2024-06-22,South,Electronics,Direct Web,7,146.41,0.0,1024.87,323.34
+2024-06-22,South,Apparel,Retail Partner,11,164.93,0.05,1723.52,532.82
+2024-06-22,North,Electronics,Retail Partner,7,259.55,0.0,1816.85,614.6
+2024-06-23,West,Apparel,Amazon,6,134.85,0.2,647.28,174.3
+2024-06-23,West,Office Supplies,Amazon,8,36.41,0.0,291.28,124.61
+2024-06-23,West,Apparel,Amazon,11,39.9,0.1,395.01,163.76
+2024-06-23,North,Office Supplies,Retail Partner,13,53.65,0.0,697.45,254.06
+2024-06-24,East,Apparel,Direct Web,6,306.34,0.0,1838.04,780.54
+2024-06-24,West,Home Goods,Direct Web,10,173.2,0.2,1385.6,466.59
+2024-06-24,North,Home Goods,Direct Web,3,253.82,0.0,761.46,281.98
+2024-06-24,North,Office Supplies,Amazon,4,146.62,0.0,586.48,230.53
+2024-06-25,East,Office Supplies,Amazon,14,101.67,0.0,1423.38,592.13
+2024-06-25,South,Home Goods,Direct Web,3,131.31,0.05,374.23,143.3
+2024-06-25,West,Office Supplies,Direct Web,1,281.05,0.0,281.05,92.3
+2024-06-25,North,Apparel,Amazon,10,224.45,0.05,2132.28,713.98
+2024-06-26,East,Apparel,Direct Web,5,329.11,0.05,1563.27,652.31
+2024-06-26,North,Home Goods,Amazon,1,242.7,0.1,218.43,92.84
+2024-06-26,North,Electronics,Retail Partner,1,206.01,0.1,185.41,82.45
+2024-06-26,North,Apparel,Direct Web,2,219.42,0.05,416.9,186.57
+2024-06-26,West,Office Supplies,Direct Web,13,330.69,0.0,4298.97,1178.08
+2024-06-27,East,Electronics,Amazon,4,279.05,0.1,1004.58,443.0
+2024-06-27,South,Electronics,Amazon,6,23.05,0.0,138.3,42.01
+2024-06-27,South,Apparel,Amazon,8,193.94,0.05,1473.94,406.22
+2024-06-27,West,Apparel,Retail Partner,13,245.59,0.05,3033.04,1305.39
+2024-06-28,South,Electronics,Direct Web,3,265.81,0.1,717.69,260.33
+2024-06-28,West,Electronics,Amazon,1,86.4,0.05,82.08,21.14
+2024-06-28,South,Home Goods,Amazon,3,305.5,0.0,916.5,259.53
+2024-06-28,South,Office Supplies,Retail Partner,12,335.21,0.05,3821.39,1345.36
+2024-06-29,South,Home Goods,Direct Web,3,94.3,0.05,268.75,79.95
+2024-06-29,North,Apparel,Amazon,5,310.68,0.0,1553.4,440.12
+2024-06-29,East,Home Goods,Amazon,11,47.49,0.05,496.27,188.78
+2024-06-29,South,Home Goods,Direct Web,12,33.66,0.1,363.53,98.72
+2024-06-30,North,Home Goods,Direct Web,12,58.29,0.2,559.58,199.16
+2024-06-30,West,Home Goods,Retail Partner,4,34.34,0.05,130.49,44.95
+2024-06-30,South,Office Supplies,Direct Web,13,298.08,0.0,3875.04,968.99
+2024-06-30,South,Office Supplies,Direct Web,4,34.78,0.0,139.12,39.14
+2024-07-01,West,Electronics,Direct Web,9,106.01,0.1,858.68,324.28
+2024-07-01,East,Apparel,Retail Partner,7,49.76,0.1,313.49,140.42
+2024-07-01,North,Home Goods,Amazon,4,113.97,0.0,455.88,148.05
+2024-07-01,West,Electronics,Amazon,3,45.34,0.0,136.02,42.06
+2024-07-02,East,Electronics,Direct Web,6,238.78,0.1,1289.41,412.4
+2024-07-02,North,Electronics,Amazon,3,59.66,0.0,178.98,45.9
+2024-07-02,North,Office Supplies,Amazon,6,300.37,0.0,1802.22,499.95
+2024-07-02,East,Home Goods,Amazon,11,288.76,0.0,3176.36,1144.23
+2024-07-03,East,Home Goods,Retail Partner,13,19.58,0.0,254.54,111.34
+2024-07-03,South,Apparel,Direct Web,11,315.07,0.05,3292.48,1168.13
+2024-07-03,West,Home Goods,Amazon,13,24.7,0.1,288.99,90.21
+2024-07-03,East,Home Goods,Direct Web,13,95.28,0.0,1238.64,406.84
+2024-07-04,North,Electronics,Amazon,12,25.85,0.0,310.2,106.2
+2024-07-04,North,Apparel,Direct Web,9,127.51,0.0,1147.59,408.81
+2024-07-04,North,Home Goods,Direct Web,6,187.15,0.05,1066.76,417.37
+2024-07-04,East,Office Supplies,Direct Web,12,281.88,0.0,3382.56,1334.52
+2024-07-05,North,Home Goods,Amazon,4,128.22,0.05,487.24,170.51
+2024-07-05,South,Electronics,Direct Web,5,251.34,0.1,1131.03,472.63
+2024-07-05,East,Office Supplies,Amazon,13,77.81,0.0,1011.53,386.27
+2024-07-05,West,Electronics,Direct Web,6,266.45,0.0,1598.7,615.83
+2024-07-06,North,Home Goods,Direct Web,11,94.06,0.0,1034.66,344.1
+2024-07-06,West,Office Supplies,Amazon,3,63.09,0.05,179.81,78.52
+2024-07-06,North,Apparel,Direct Web,8,77.11,0.1,555.19,157.71
+2024-07-06,West,Apparel,Direct Web,4,75.99,0.0,303.96,102.59
+2024-07-06,North,Office Supplies,Amazon,8,186.81,0.2,1195.58,377.61
+2024-07-07,South,Office Supplies,Direct Web,10,298.01,0.0,2980.1,921.99
+2024-07-07,East,Electronics,Direct Web,10,41.67,0.1,375.03,146.9
+2024-07-07,North,Office Supplies,Direct Web,3,251.83,0.05,717.72,255.45
+2024-07-07,North,Electronics,Retail Partner,10,234.21,0.05,2225.0,575.72
+2024-07-08,East,Home Goods,Amazon,7,307.29,0.05,2043.48,606.22
+2024-07-08,East,Electronics,Amazon,11,96.79,0.05,1011.46,259.02
+2024-07-08,East,Office Supplies,Amazon,13,165.79,0.1,1939.74,583.38
+2024-07-08,East,Office Supplies,Direct Web,12,325.15,0.1,3511.62,1456.9
+2024-07-09,South,Home Goods,Direct Web,9,236.1,0.05,2018.66,882.34
+2024-07-09,North,Office Supplies,Amazon,4,145.24,0.0,580.96,194.31
+2024-07-09,North,Office Supplies,Direct Web,8,59.02,0.0,472.16,178.68
+2024-07-09,North,Apparel,Direct Web,3,102.93,0.1,277.91,109.75
+2024-07-10,West,Apparel,Direct Web,7,209.71,0.05,1394.57,402.41
+2024-07-10,South,Home Goods,Direct Web,3,255.59,0.05,728.43,274.33
+2024-07-10,South,Electronics,Retail Partner,12,56.68,0.05,646.15,249.8
+2024-07-10,South,Apparel,Direct Web,7,215.87,0.1,1359.98,380.8
+2024-07-11,West,Electronics,Amazon,14,199.37,0.05,2651.62,744.42
+2024-07-11,North,Office Supplies,Direct Web,11,187.18,0.1,1853.08,701.81
+2024-07-11,South,Apparel,Retail Partner,10,246.19,0.1,2215.71,628.15
+2024-07-11,South,Home Goods,Direct Web,10,295.55,0.0,2955.5,827.08
+2024-07-12,East,Home Goods,Direct Web,11,123.2,0.0,1355.2,494.94
+2024-07-12,North,Home Goods,Amazon,11,312.82,0.1,3096.92,1352.44
+2024-07-12,West,Apparel,Amazon,6,68.81,0.0,412.86,185.66
+2024-07-12,West,Electronics,Direct Web,2,72.96,0.2,116.74,40.32
+2024-07-13,South,Office Supplies,Direct Web,11,104.37,0.0,1148.07,437.63
+2024-07-13,East,Electronics,Direct Web,3,55.04,0.0,165.12,41.37
+2024-07-13,West,Electronics,Direct Web,6,92.16,0.2,442.37,130.73
+2024-07-13,East,Office Supplies,Direct Web,14,50.65,0.05,673.64,200.57
+2024-07-14,North,Office Supplies,Direct Web,4,290.29,0.0,1161.16,300.68
+2024-07-14,South,Apparel,Direct Web,6,61.55,0.1,332.37,90.56
+2024-07-14,East,Apparel,Direct Web,1,265.34,0.05,252.07,97.39
+2024-07-14,South,Apparel,Amazon,10,31.05,0.05,294.97,122.94
+2024-07-15,East,Apparel,Retail Partner,12,332.75,0.0,3993.0,1201.18
+2024-07-15,West,Apparel,Amazon,1,253.24,0.1,227.92,85.32
+2024-07-15,West,Office Supplies,Direct Web,3,17.28,0.1,46.66,16.58
+2024-07-15,South,Electronics,Direct Web,8,270.89,0.0,2167.12,701.97
+2024-07-15,North,Apparel,Retail Partner,8,187.22,0.1,1347.98,361.83
+2024-07-16,West,Apparel,Direct Web,11,276.09,0.1,2733.29,1000.88
+2024-07-16,West,Electronics,Direct Web,4,190.04,0.05,722.15,211.83
+2024-07-16,North,Apparel,Amazon,6,229.74,0.05,1309.52,519.0
+2024-07-16,West,Electronics,Amazon,8,278.42,0.0,2227.36,691.39
+2024-07-17,West,Electronics,Amazon,7,150.71,0.0,1054.97,474.4
+2024-07-17,South,Office Supplies,Direct Web,11,15.91,0.1,157.51,43.43
+2024-07-17,South,Home Goods,Direct Web,7,299.73,0.1,1888.3,838.26
+2024-07-17,South,Office Supplies,Retail Partner,13,142.6,0.05,1761.11,541.45
+2024-07-18,North,Home Goods,Direct Web,4,181.17,0.05,688.45,303.43
+2024-07-18,North,Home Goods,Amazon,9,17.6,0.0,158.4,62.85
+2024-07-18,West,Home Goods,Amazon,12,179.85,0.0,2158.2,756.58
+2024-07-18,North,Apparel,Amazon,10,345.47,0.05,3281.96,1201.24
+2024-07-19,North,Office Supplies,Direct Web,6,108.22,0.0,649.32,267.28
+2024-07-19,South,Home Goods,Direct Web,14,147.47,0.05,1961.35,751.66
+2024-07-19,South,Electronics,Amazon,12,245.21,0.0,2942.52,895.88
+2024-07-19,West,Apparel,Retail Partner,11,287.96,0.1,2850.8,901.28
+2024-07-20,North,Office Supplies,Retail Partner,3,154.83,0.0,464.49,202.35
+2024-07-20,North,Home Goods,Direct Web,5,118.74,0.05,564.02,169.51
+2024-07-20,East,Electronics,Direct Web,5,329.17,0.05,1563.56,687.01
+2024-07-20,South,Office Supplies,Retail Partner,14,241.84,0.0,3385.76,1155.95
+2024-07-21,North,Office Supplies,Amazon,5,54.87,0.0,274.35,109.19
+2024-07-21,South,Apparel,Retail Partner,8,38.09,0.0,304.72,101.31
+2024-07-21,North,Office Supplies,Direct Web,9,176.99,0.1,1433.62,570.2
+2024-07-21,North,Apparel,Amazon,13,88.73,0.0,1153.49,291.84
+2024-07-22,South,Home Goods,Amazon,9,100.08,0.1,810.65,314.58
+2024-07-22,South,Apparel,Amazon,13,309.03,0.2,3213.91,1290.73
+2024-07-22,West,Electronics,Direct Web,6,45.0,0.1,243.0,95.82
+2024-07-22,South,Apparel,Direct Web,6,254.65,0.0,1527.9,413.61
+2024-07-23,South,Electronics,Amazon,9,105.83,0.2,761.98,245.93
+2024-07-23,East,Apparel,Direct Web,4,269.71,0.0,1078.84,327.82
+2024-07-23,North,Office Supplies,Direct Web,6,257.01,0.05,1464.96,390.26
+2024-07-23,East,Home Goods,Retail Partner,4,17.48,0.1,62.93,16.84
+2024-07-24,North,Electronics,Direct Web,11,185.56,0.05,1939.1,586.02
+2024-07-24,West,Apparel,Amazon,1,61.67,0.05,58.59,24.05
+2024-07-24,North,Apparel,Direct Web,7,305.19,0.0,2136.33,601.0
+2024-07-24,South,Apparel,Amazon,14,306.98,0.0,4297.72,1758.82
+2024-07-24,North,Office Supplies,Retail Partner,10,155.15,0.05,1473.92,444.27
+2024-07-25,West,Office Supplies,Direct Web,11,163.87,0.0,1802.57,563.99
+2024-07-25,South,Electronics,Direct Web,12,116.6,0.2,1119.36,333.82
+2024-07-25,South,Electronics,Direct Web,6,255.06,0.2,1224.29,420.5
+2024-07-25,North,Office Supplies,Direct Web,9,135.15,0.1,1094.71,352.78
+2024-07-26,East,Electronics,Amazon,7,104.71,0.05,696.32,180.58
+2024-07-26,North,Home Goods,Retail Partner,13,159.8,0.05,1973.53,848.19
+2024-07-26,West,Home Goods,Direct Web,7,45.65,0.2,255.64,99.25
+2024-07-26,North,Office Supplies,Direct Web,2,265.11,0.1,477.2,156.39
+2024-07-27,North,Electronics,Direct Web,12,19.22,0.05,219.11,56.35
+2024-07-27,North,Apparel,Amazon,11,230.9,0.0,2539.9,1094.41
+2024-07-27,South,Home Goods,Direct Web,9,76.26,0.0,686.34,305.76
+2024-07-27,South,Office Supplies,Amazon,10,92.86,0.05,882.17,387.14
+2024-07-28,North,Electronics,Amazon,9,227.94,0.05,1948.89,856.57
+2024-07-28,East,Office Supplies,Amazon,6,347.64,0.1,1877.26,503.93
+2024-07-28,South,Apparel,Direct Web,13,275.54,0.0,3582.02,1095.2
+2024-07-28,South,Home Goods,Amazon,3,90.66,0.0,271.98,85.56
+2024-07-29,South,Office Supplies,Direct Web,1,73.97,0.0,73.97,25.56
+2024-07-29,South,Office Supplies,Direct Web,4,305.19,0.0,1220.76,358.43
+2024-07-29,South,Office Supplies,Retail Partner,14,163.8,0.0,2293.2,960.55
+2024-07-29,North,Apparel,Amazon,14,60.91,0.05,810.1,301.04
+2024-07-30,North,Office Supplies,Direct Web,3,303.84,0.05,865.94,304.81
+2024-07-30,West,Apparel,Direct Web,14,288.39,0.1,3633.71,1554.93
+2024-07-30,West,Apparel,Direct Web,12,344.61,0.0,4135.32,1513.93
+2024-07-30,South,Apparel,Direct Web,1,319.76,0.0,319.76,123.65
+2024-07-31,North,Home Goods,Direct Web,3,300.35,0.05,856.0,379.11
+2024-07-31,East,Home Goods,Direct Web,14,32.61,0.1,410.89,173.66
+2024-07-31,South,Office Supplies,Direct Web,14,49.98,0.0,699.72,207.95
+2024-07-31,North,Office Supplies,Amazon,4,205.61,0.1,740.2,330.42
+2024-08-01,North,Home Goods,Amazon,13,193.05,0.0,2509.65,660.41
+2024-08-01,East,Electronics,Amazon,13,168.42,0.1,1970.51,852.67
+2024-08-01,East,Home Goods,Direct Web,14,147.92,0.1,1863.79,540.78
+2024-08-01,North,Apparel,Retail Partner,8,159.46,0.0,1275.68,344.79
+2024-08-02,North,Home Goods,Amazon,9,205.71,0.05,1758.82,460.41
+2024-08-02,North,Apparel,Amazon,3,15.7,0.0,47.1,13.02
+2024-08-02,East,Office Supplies,Amazon,6,102.34,0.1,552.64,216.91
+2024-08-02,North,Electronics,Retail Partner,10,188.62,0.05,1791.89,686.98
+2024-08-03,North,Office Supplies,Amazon,11,256.94,0.05,2685.02,979.2
+2024-08-03,East,Apparel,Direct Web,5,73.34,0.1,330.03,139.32
+2024-08-03,North,Apparel,Amazon,6,198.21,0.1,1070.33,476.88
+2024-08-03,East,Apparel,Amazon,4,254.34,0.0,1017.36,280.97
+2024-08-03,North,Electronics,Amazon,10,163.95,0.05,1557.52,528.27
+2024-08-04,North,Home Goods,Amazon,6,24.07,0.0,144.42,47.41
+2024-08-04,North,Office Supplies,Direct Web,7,165.5,0.0,1158.5,306.54
+2024-08-04,East,Office Supplies,Direct Web,9,114.31,0.05,977.35,309.8
+2024-08-04,West,Home Goods,Retail Partner,10,326.43,0.0,3264.3,1017.9
+2024-08-05,West,Office Supplies,Amazon,7,56.75,0.0,397.25,116.24
+2024-08-05,South,Electronics,Amazon,6,233.58,0.1,1261.33,538.25
+2024-08-05,East,Office Supplies,Direct Web,1,32.66,0.0,32.66,12.34
+2024-08-05,North,Apparel,Direct Web,2,164.47,0.05,312.49,80.11
+2024-08-06,North,Home Goods,Retail Partner,1,200.58,0.0,200.58,53.24
+2024-08-06,West,Electronics,Amazon,9,114.81,0.0,1033.29,282.28
+2024-08-06,North,Home Goods,Amazon,10,167.45,0.0,1674.5,602.12
+2024-08-06,North,Electronics,Direct Web,10,69.79,0.05,663.0,184.69
+2024-08-07,North,Apparel,Amazon,9,116.88,0.1,946.73,416.86
+2024-08-07,North,Home Goods,Direct Web,7,223.07,0.0,1561.49,656.29
+2024-08-07,North,Office Supplies,Amazon,13,116.1,0.0,1509.3,554.22
+2024-08-07,South,Electronics,Direct Web,2,316.41,0.2,506.26,178.87
+2024-08-08,South,Home Goods,Direct Web,6,225.52,0.0,1353.12,537.59
+2024-08-08,West,Office Supplies,Amazon,11,161.95,0.1,1603.3,607.18
+2024-08-08,West,Home Goods,Retail Partner,4,27.98,0.0,111.92,46.72
+2024-08-08,North,Home Goods,Direct Web,1,182.35,0.1,164.12,57.8
+2024-08-09,North,Home Goods,Amazon,1,271.2,0.0,271.2,78.98
+2024-08-09,South,Electronics,Direct Web,12,103.96,0.1,1122.77,356.74
+2024-08-09,South,Office Supplies,Direct Web,5,285.27,0.1,1283.71,549.99
+2024-08-09,North,Apparel,Direct Web,12,99.36,0.05,1132.7,399.26
+2024-08-10,East,Electronics,Direct Web,2,290.96,0.0,581.92,180.67
+2024-08-10,South,Electronics,Amazon,4,43.56,0.1,156.82,53.95
+2024-08-10,South,Electronics,Direct Web,1,305.17,0.05,289.91,107.75
+2024-08-10,South,Apparel,Direct Web,4,182.23,0.0,728.92,237.35
+2024-08-11,North,Office Supplies,Retail Partner,11,114.34,0.0,1257.74,322.32
+2024-08-11,West,Office Supplies,Direct Web,6,103.81,0.1,560.57,241.62
+2024-08-11,East,Office Supplies,Amazon,10,159.72,0.0,1597.2,594.15
+2024-08-11,North,Home Goods,Direct Web,4,349.68,0.05,1328.78,489.89
+2024-08-12,West,Home Goods,Amazon,1,88.81,0.05,84.37,28.23
+2024-08-12,South,Home Goods,Direct Web,7,49.58,0.1,312.35,131.05
+2024-08-12,West,Apparel,Direct Web,14,210.99,0.2,2363.09,979.91
+2024-08-12,East,Home Goods,Direct Web,2,178.66,0.2,285.86,112.32
+2024-08-12,South,Apparel,Direct Web,9,190.61,0.0,1715.49,444.01
+2024-08-13,North,Office Supplies,Direct Web,13,238.42,0.1,2789.51,845.72
+2024-08-13,North,Home Goods,Amazon,3,104.49,0.0,313.47,99.58
+2024-08-13,South,Home Goods,Retail Partner,8,320.07,0.05,2432.53,697.18
+2024-08-13,East,Electronics,Amazon,13,160.95,0.05,1987.73,843.76
+2024-08-14,North,Apparel,Amazon,8,58.24,0.0,465.92,129.59
+2024-08-14,North,Office Supplies,Direct Web,3,263.67,0.2,632.81,209.48
+2024-08-14,West,Electronics,Direct Web,4,230.44,0.0,921.76,352.97
+2024-08-14,West,Electronics,Direct Web,2,120.77,0.05,229.46,65.82
+2024-08-15,South,Office Supplies,Direct Web,4,223.21,0.1,803.56,232.62
+2024-08-15,North,Electronics,Amazon,11,88.65,0.1,877.64,246.49
+2024-08-15,North,Apparel,Amazon,11,164.02,0.0,1804.22,770.22
+2024-08-15,North,Apparel,Direct Web,11,316.3,0.05,3305.34,846.59
+2024-08-16,West,Home Goods,Direct Web,14,59.73,0.1,752.6,194.23
+2024-08-16,North,Electronics,Amazon,9,144.54,0.0,1300.86,492.38
+2024-08-16,South,Home Goods,Amazon,2,290.08,0.05,551.15,240.75
+2024-08-16,North,Electronics,Direct Web,12,339.78,0.0,4077.36,1698.58
+2024-08-17,South,Apparel,Retail Partner,12,167.07,0.05,1904.6,478.88
+2024-08-17,East,Apparel,Retail Partner,13,184.84,0.1,2162.63,729.67
+2024-08-17,West,Apparel,Direct Web,3,206.68,0.05,589.04,223.06
+2024-08-17,North,Electronics,Direct Web,11,327.34,0.05,3420.7,1342.14
+2024-08-18,North,Apparel,Amazon,11,302.5,0.05,3161.12,1260.03
+2024-08-18,North,Electronics,Retail Partner,4,72.15,0.05,274.17,86.96
+2024-08-18,West,Home Goods,Retail Partner,5,161.31,0.0,806.55,295.3
+2024-08-18,West,Electronics,Direct Web,1,170.44,0.0,170.44,43.79
+2024-08-19,South,Home Goods,Direct Web,7,279.35,0.05,1857.68,581.88
+2024-08-19,East,Electronics,Amazon,14,216.97,0.05,2885.7,841.44
+2024-08-19,East,Home Goods,Amazon,10,234.16,0.05,2224.52,870.79
+2024-08-19,North,Apparel,Direct Web,7,349.4,0.0,2445.8,1061.88
+2024-08-20,West,Home Goods,Retail Partner,9,40.11,0.0,360.99,127.23
+2024-08-20,South,Apparel,Amazon,4,89.71,0.0,358.84,138.9
+2024-08-20,South,Apparel,Amazon,14,151.65,0.2,1698.48,695.67
+2024-08-20,South,Home Goods,Retail Partner,14,131.51,0.05,1749.08,453.84
+2024-08-21,North,Electronics,Amazon,6,22.25,0.0,133.5,48.22
+2024-08-21,North,Electronics,Direct Web,11,45.75,0.0,503.25,208.88
+2024-08-21,East,Office Supplies,Amazon,2,243.12,0.2,388.99,159.59
+2024-08-21,North,Electronics,Direct Web,12,309.57,0.0,3714.84,1463.12
+2024-08-21,East,Office Supplies,Amazon,12,187.27,0.1,2022.52,505.91
+2024-08-22,North,Electronics,Direct Web,14,195.63,0.0,2738.82,1085.66
+2024-08-22,South,Electronics,Amazon,4,100.46,0.2,321.47,123.52
+2024-08-22,North,Apparel,Direct Web,2,272.24,0.1,490.03,155.9
+2024-08-22,South,Office Supplies,Direct Web,10,266.85,0.05,2535.07,991.74
+2024-08-23,East,Electronics,Direct Web,5,212.1,0.0,1060.5,431.45
+2024-08-23,North,Office Supplies,Direct Web,7,86.24,0.0,603.68,252.5
+2024-08-23,South,Apparel,Amazon,13,47.5,0.05,586.62,227.29
+2024-08-23,South,Apparel,Amazon,1,36.52,0.05,34.69,14.88
+2024-08-24,East,Office Supplies,Amazon,10,213.55,0.0,2135.5,953.01
+2024-08-24,West,Apparel,Direct Web,10,291.39,0.0,2913.9,842.33
+2024-08-24,East,Home Goods,Direct Web,7,302.54,0.05,2011.89,849.86
+2024-08-24,North,Home Goods,Direct Web,10,170.31,0.05,1617.94,476.98
+2024-08-25,North,Apparel,Direct Web,13,277.73,0.0,3610.49,1048.82
+2024-08-25,North,Home Goods,Retail Partner,6,332.2,0.0,1993.2,682.5
+2024-08-25,South,Electronics,Direct Web,6,107.18,0.2,514.46,199.64
+2024-08-25,North,Office Supplies,Direct Web,12,148.32,0.05,1690.85,711.84
+2024-08-26,South,Electronics,Direct Web,8,327.05,0.1,2354.76,712.64
+2024-08-26,South,Office Supplies,Direct Web,8,128.31,0.05,975.16,321.53
+2024-08-26,North,Apparel,Amazon,6,321.15,0.0,1926.9,614.51
+2024-08-26,East,Electronics,Amazon,3,343.65,0.0,1030.95,462.14
+2024-08-27,North,Apparel,Direct Web,5,236.71,0.0,1183.55,313.04
+2024-08-27,North,Apparel,Direct Web,2,288.66,0.1,519.59,226.93
+2024-08-27,East,Office Supplies,Direct Web,14,266.1,0.05,3539.13,1332.97
+2024-08-27,South,Office Supplies,Direct Web,5,249.34,0.0,1246.7,460.6
+2024-08-28,East,Office Supplies,Direct Web,14,117.82,0.2,1319.58,593.45
+2024-08-28,South,Electronics,Retail Partner,9,34.13,0.0,307.17,107.69
+2024-08-28,North,Home Goods,Amazon,10,129.92,0.2,1039.36,311.22
+2024-08-28,West,Office Supplies,Amazon,1,238.42,0.2,190.74,54.43
+2024-08-29,East,Office Supplies,Direct Web,10,49.35,0.0,493.5,135.28
+2024-08-29,East,Electronics,Direct Web,5,18.99,0.0,94.95,33.47
+2024-08-29,North,Office Supplies,Amazon,12,61.8,0.05,704.52,228.17
+2024-08-29,South,Electronics,Amazon,6,254.77,0.05,1452.19,630.39
+2024-08-30,South,Apparel,Amazon,14,340.89,0.05,4533.84,1597.69
+2024-08-30,North,Office Supplies,Direct Web,11,344.33,0.2,3030.1,1269.72
+2024-08-30,West,Office Supplies,Amazon,7,180.48,0.1,1137.02,427.6
+2024-08-30,North,Apparel,Direct Web,9,306.23,0.0,2756.07,1058.71
+2024-08-31,West,Apparel,Retail Partner,6,261.84,0.0,1571.04,573.89
+2024-08-31,South,Apparel,Amazon,5,182.85,0.05,868.54,291.55
+2024-08-31,North,Office Supplies,Amazon,12,206.87,0.0,2482.44,668.83
+2024-08-31,South,Home Goods,Direct Web,7,60.97,0.1,384.11,142.54
+2024-08-31,West,Home Goods,Amazon,13,329.12,0.0,4278.56,1085.79
+2024-09-01,East,Home Goods,Direct Web,1,132.9,0.0,132.9,39.63
+2024-09-01,West,Office Supplies,Direct Web,11,164.46,0.0,1809.06,629.02
+2024-09-01,East,Apparel,Direct Web,14,240.01,0.1,3024.13,971.33
+2024-09-01,East,Office Supplies,Amazon,5,126.86,0.0,634.3,272.47
+2024-09-02,West,Apparel,Direct Web,2,100.18,0.1,180.32,50.69
+2024-09-02,North,Office Supplies,Direct Web,4,226.4,0.05,860.32,286.94
+2024-09-02,South,Office Supplies,Retail Partner,7,23.37,0.1,147.23,37.22
+2024-09-02,North,Apparel,Direct Web,5,256.44,0.05,1218.09,393.1
+2024-09-03,West,Home Goods,Amazon,12,187.2,0.0,2246.4,636.13
+2024-09-03,West,Apparel,Direct Web,6,217.93,0.1,1176.82,341.33
+2024-09-03,North,Electronics,Direct Web,2,226.68,0.0,453.36,172.69
+2024-09-03,East,Electronics,Amazon,3,191.56,0.05,545.95,217.33
+2024-09-04,West,Apparel,Direct Web,7,210.15,0.0,1471.05,535.32
+2024-09-04,North,Office Supplies,Direct Web,11,244.07,0.1,2416.29,861.53
+2024-09-04,South,Electronics,Amazon,2,267.29,0.2,427.66,171.91
+2024-09-04,West,Electronics,Amazon,12,258.7,0.05,2949.18,799.46
+2024-09-05,North,Office Supplies,Amazon,6,306.32,0.05,1746.02,596.25
+2024-09-05,East,Office Supplies,Direct Web,5,78.46,0.1,353.07,89.79
+2024-09-05,North,Home Goods,Direct Web,10,149.38,0.0,1493.8,430.21
+2024-09-05,West,Office Supplies,Amazon,1,332.51,0.2,266.01,90.14
+2024-09-06,West,Apparel,Amazon,12,147.86,0.0,1774.32,462.37
+2024-09-06,West,Apparel,Amazon,11,56.83,0.2,500.1,174.55
+2024-09-06,South,Home Goods,Amazon,10,191.02,0.1,1719.18,468.61
+2024-09-06,West,Electronics,Amazon,11,51.68,0.1,511.63,193.59
+2024-09-07,West,Electronics,Direct Web,4,82.96,0.05,315.25,117.99
+2024-09-07,North,Office Supplies,Direct Web,11,349.44,0.05,3651.65,1337.87
+2024-09-07,West,Apparel,Amazon,2,196.36,0.05,373.08,127.1
+2024-09-07,North,Electronics,Direct Web,4,110.16,0.0,440.64,149.51
+2024-09-08,South,Home Goods,Direct Web,1,348.25,0.05,330.84,116.03
+2024-09-08,North,Home Goods,Retail Partner,2,338.8,0.05,643.72,250.28
+2024-09-08,North,Apparel,Retail Partner,13,162.65,0.1,1903.0,503.46
+2024-09-08,North,Home Goods,Direct Web,8,102.24,0.05,777.02,258.19
+2024-09-09,East,Home Goods,Direct Web,6,295.86,0.0,1775.16,654.06
+2024-09-09,North,Apparel,Direct Web,2,254.73,0.0,509.46,162.91
+2024-09-09,East,Office Supplies,Amazon,12,245.13,0.05,2794.48,828.3
+2024-09-09,North,Office Supplies,Retail Partner,6,314.19,0.0,1885.14,486.09
+2024-09-09,North,Home Goods,Direct Web,10,245.95,0.0,2459.5,861.05
+2024-09-10,South,Office Supplies,Direct Web,9,110.07,0.1,891.57,381.22
+2024-09-10,East,Office Supplies,Retail Partner,7,247.44,0.05,1645.48,595.41
+2024-09-10,North,Home Goods,Direct Web,9,117.45,0.05,1004.2,355.69
+2024-09-10,East,Office Supplies,Amazon,5,269.35,0.0,1346.75,364.43
+2024-09-11,West,Home Goods,Retail Partner,7,222.62,0.1,1402.51,520.39
+2024-09-11,East,Electronics,Direct Web,11,40.93,0.0,450.23,116.76
+2024-09-11,North,Apparel,Amazon,14,186.8,0.1,2353.68,830.79
+2024-09-11,North,Apparel,Direct Web,7,130.01,0.0,910.07,232.29
+2024-09-12,West,Office Supplies,Direct Web,12,125.07,0.1,1350.76,605.63
+2024-09-12,North,Office Supplies,Amazon,12,216.76,0.05,2471.06,667.77
+2024-09-12,West,Office Supplies,Direct Web,3,122.98,0.05,350.49,92.45
+2024-09-12,South,Apparel,Retail Partner,7,275.26,0.05,1830.48,471.89
+2024-09-13,West,Electronics,Amazon,1,38.72,0.05,36.78,16.45
+2024-09-13,East,Electronics,Direct Web,9,236.23,0.0,2126.07,883.72
+2024-09-13,West,Apparel,Direct Web,10,286.08,0.1,2574.72,821.97
+2024-09-13,South,Electronics,Direct Web,13,240.4,0.0,3125.2,1390.42
+2024-09-14,East,Apparel,Direct Web,6,181.57,0.2,871.54,381.11
+2024-09-14,South,Electronics,Direct Web,5,333.35,0.1,1500.08,608.71
+2024-09-14,South,Home Goods,Direct Web,7,115.48,0.0,808.36,280.91
+2024-09-14,East,Home Goods,Direct Web,5,21.42,0.1,96.39,32.85
+2024-09-15,West,Apparel,Amazon,10,159.72,0.0,1597.2,707.8
+2024-09-15,West,Electronics,Amazon,5,26.06,0.0,130.3,54.2
+2024-09-15,East,Office Supplies,Amazon,11,334.57,0.2,2944.22,1030.65
+2024-09-15,South,Electronics,Direct Web,10,85.32,0.05,810.54,268.46
+2024-09-16,South,Home Goods,Direct Web,11,279.29,0.05,2918.58,1226.74
+2024-09-16,East,Home Goods,Amazon,7,274.48,0.0,1921.36,711.35
+2024-09-16,North,Electronics,Direct Web,10,87.94,0.0,879.4,236.66
+2024-09-16,North,Electronics,Direct Web,7,223.11,0.2,1249.42,312.63
+2024-09-17,South,Office Supplies,Amazon,13,31.11,0.0,404.43,102.14
+2024-09-17,North,Office Supplies,Amazon,11,177.0,0.0,1947.0,532.83
+2024-09-17,North,Electronics,Amazon,3,19.91,0.05,56.74,21.05
+2024-09-17,North,Electronics,Direct Web,3,323.58,0.05,922.2,288.36
+2024-09-18,North,Electronics,Amazon,10,341.99,0.05,3248.9,1191.31
+2024-09-18,North,Electronics,Amazon,12,89.46,0.0,1073.52,343.84
+2024-09-18,West,Apparel,Amazon,13,84.72,0.0,1101.36,427.45
+2024-09-18,South,Electronics,Amazon,3,267.5,0.0,802.5,263.83
+2024-09-19,South,Office Supplies,Amazon,6,99.88,0.2,479.42,165.52
+2024-09-19,East,Home Goods,Amazon,12,314.85,0.0,3778.2,1681.69
+2024-09-19,North,Apparel,Direct Web,6,207.27,0.1,1119.26,326.67
+2024-09-19,West,Electronics,Amazon,13,132.51,0.1,1550.37,693.98
+2024-09-19,East,Home Goods,Amazon,13,293.95,0.1,3439.22,1346.0
+2024-09-20,North,Apparel,Amazon,3,180.29,0.1,486.78,218.47
+2024-09-20,South,Home Goods,Direct Web,3,320.4,0.0,961.2,360.22
+2024-09-20,West,Electronics,Direct Web,8,325.88,0.0,2607.04,1140.24
+2024-09-20,West,Electronics,Retail Partner,8,70.42,0.05,535.19,143.06
+2024-09-21,South,Office Supplies,Amazon,7,15.78,0.0,110.46,40.52
+2024-09-21,East,Electronics,Retail Partner,10,344.62,0.1,3101.58,1110.68
+2024-09-21,North,Electronics,Amazon,4,318.56,0.05,1210.53,460.04
+2024-09-21,West,Apparel,Amazon,4,33.57,0.1,120.85,39.22
+2024-09-22,North,Office Supplies,Amazon,3,294.07,0.0,882.21,258.59
+2024-09-22,West,Apparel,Retail Partner,5,168.36,0.2,673.44,215.75
+2024-09-22,East,Home Goods,Amazon,3,101.75,0.0,305.25,91.68
+2024-09-22,East,Electronics,Amazon,13,309.38,0.05,3820.84,1027.06
+2024-09-23,South,Home Goods,Direct Web,8,80.88,0.05,614.69,170.45
+2024-09-23,North,Apparel,Direct Web,7,332.35,0.1,2093.8,659.94
+2024-09-23,North,Electronics,Amazon,13,83.88,0.05,1035.92,421.69
+2024-09-23,North,Electronics,Direct Web,3,220.58,0.2,529.39,170.71
+2024-09-24,North,Apparel,Direct Web,9,89.73,0.2,646.06,225.33
+2024-09-24,East,Apparel,Direct Web,12,197.8,0.1,2136.24,654.88
+2024-09-24,South,Apparel,Direct Web,14,244.13,0.0,3417.82,968.66
+2024-09-24,North,Apparel,Direct Web,13,78.73,0.1,921.14,277.68
+2024-09-25,West,Apparel,Direct Web,5,189.5,0.1,852.75,239.36
+2024-09-25,West,Electronics,Retail Partner,9,172.14,0.0,1549.26,677.38
+2024-09-25,West,Apparel,Amazon,7,38.8,0.0,271.6,120.5
+2024-09-25,West,Electronics,Direct Web,7,289.13,0.0,2023.91,806.12
+2024-09-26,North,Electronics,Direct Web,6,127.45,0.0,764.7,206.37
+2024-09-26,South,Apparel,Amazon,2,207.49,0.05,394.23,112.46
+2024-09-26,East,Apparel,Direct Web,9,187.45,0.2,1349.64,423.05
+2024-09-26,East,Office Supplies,Amazon,6,186.94,0.05,1065.56,330.16
+2024-09-27,North,Electronics,Amazon,8,50.92,0.05,386.99,117.9
+2024-09-27,West,Apparel,Amazon,1,156.87,0.2,125.5,32.82
+2024-09-27,North,Apparel,Direct Web,5,166.54,0.0,832.7,236.12
+2024-09-27,North,Apparel,Amazon,12,260.77,0.1,2816.32,916.21
+2024-09-28,South,Office Supplies,Direct Web,1,296.41,0.05,281.59,89.22
+2024-09-28,South,Office Supplies,Retail Partner,10,197.57,0.05,1876.92,764.38
+2024-09-28,South,Home Goods,Amazon,11,44.07,0.0,484.77,154.42
+2024-09-28,North,Electronics,Direct Web,14,94.34,0.05,1254.72,458.05
+2024-09-28,West,Home Goods,Direct Web,8,70.25,0.0,562.0,235.71
+2024-09-29,North,Apparel,Direct Web,8,56.75,0.1,408.6,117.97
+2024-09-29,North,Office Supplies,Amazon,1,137.58,0.0,137.58,47.87
+2024-09-29,West,Office Supplies,Direct Web,9,91.85,0.1,743.98,189.35
+2024-09-29,West,Home Goods,Amazon,2,88.13,0.0,176.26,69.39
+2024-09-30,West,Office Supplies,Direct Web,12,33.32,0.0,399.84,141.49
+2024-09-30,West,Apparel,Amazon,9,20.92,0.05,178.87,64.46
+2024-09-30,East,Office Supplies,Amazon,1,49.43,0.0,49.43,21.05
+2024-09-30,South,Home Goods,Amazon,12,72.69,0.1,785.05,286.37
+2024-10-01,North,Apparel,Amazon,10,159.38,0.2,1275.04,500.44
+2024-10-01,South,Home Goods,Direct Web,14,186.02,0.1,2343.85,979.58
+2024-10-01,South,Office Supplies,Direct Web,14,62.1,0.0,869.4,342.17
+2024-10-01,North,Home Goods,Amazon,9,157.3,0.05,1344.92,542.47
+2024-10-02,East,Home Goods,Direct Web,4,129.49,0.05,492.06,149.19
+2024-10-02,South,Electronics,Direct Web,9,76.45,0.1,619.24,274.85
+2024-10-02,North,Office Supplies,Direct Web,7,17.29,0.0,121.03,39.52
+2024-10-02,North,Office Supplies,Direct Web,11,171.45,0.05,1791.65,533.67
+2024-10-03,East,Home Goods,Direct Web,6,244.69,0.05,1394.73,493.53
+2024-10-03,North,Electronics,Retail Partner,5,90.8,0.0,454.0,119.71
+2024-10-03,West,Office Supplies,Direct Web,11,59.16,0.0,650.76,200.71
+2024-10-03,South,Apparel,Amazon,9,312.16,0.05,2668.97,801.8
+2024-10-04,South,Home Goods,Direct Web,2,107.13,0.1,192.83,79.18
+2024-10-04,South,Office Supplies,Amazon,14,89.91,0.2,1006.99,296.6
+2024-10-04,West,Apparel,Direct Web,13,302.13,0.05,3731.31,1058.13
+2024-10-04,North,Office Supplies,Retail Partner,11,288.73,0.0,3176.03,1199.73
+2024-10-05,East,Apparel,Retail Partner,14,165.2,0.0,2312.8,942.07
+2024-10-05,South,Home Goods,Direct Web,12,178.9,0.2,1717.44,640.59
+2024-10-05,North,Office Supplies,Retail Partner,2,87.95,0.2,140.72,42.51
+2024-10-05,West,Office Supplies,Retail Partner,11,41.23,0.2,362.82,132.96
+2024-10-06,East,Electronics,Amazon,12,207.1,0.1,2236.68,676.98
+2024-10-06,East,Home Goods,Amazon,9,47.95,0.0,431.55,184.4
+2024-10-06,West,Apparel,Direct Web,12,165.51,0.1,1787.51,516.23
+2024-10-06,West,Office Supplies,Amazon,3,330.07,0.05,940.7,375.68
+2024-10-07,East,Office Supplies,Direct Web,8,334.2,0.0,2673.6,1070.01
+2024-10-07,West,Apparel,Direct Web,11,95.18,0.1,942.28,312.77
+2024-10-07,East,Home Goods,Retail Partner,9,224.08,0.0,2016.72,879.24
+2024-10-07,East,Electronics,Direct Web,8,173.82,0.0,1390.56,618.44
+2024-10-07,East,Electronics,Amazon,4,308.35,0.05,1171.73,466.11
+2024-10-08,East,Office Supplies,Amazon,12,105.93,0.05,1207.6,413.47
+2024-10-08,North,Apparel,Retail Partner,1,16.24,0.1,14.62,3.93
+2024-10-08,West,Office Supplies,Retail Partner,4,69.46,0.0,277.84,77.99
+2024-10-08,West,Apparel,Direct Web,14,132.09,0.0,1849.26,650.77
+2024-10-09,North,Electronics,Direct Web,9,120.77,0.0,1086.93,481.06
+2024-10-09,West,Home Goods,Direct Web,2,280.11,0.0,560.22,192.13
+2024-10-09,North,Apparel,Direct Web,3,242.99,0.0,728.97,225.28
+2024-10-09,North,Electronics,Direct Web,10,115.35,0.05,1095.82,418.79
+2024-10-10,East,Office Supplies,Direct Web,8,168.34,0.05,1279.38,547.3
+2024-10-10,North,Apparel,Amazon,6,47.01,0.1,253.85,100.09
+2024-10-10,West,Home Goods,Amazon,8,315.88,0.2,2021.63,597.76
+2024-10-10,West,Office Supplies,Direct Web,7,328.37,0.05,2183.66,829.25
+2024-10-11,South,Office Supplies,Amazon,14,343.23,0.0,4805.22,1382.0
+2024-10-11,North,Electronics,Direct Web,13,305.97,0.0,3977.61,1535.74
+2024-10-11,North,Apparel,Direct Web,13,73.28,0.1,857.38,357.78
+2024-10-11,East,Office Supplies,Amazon,5,30.48,0.05,144.78,52.53
+2024-10-12,West,Home Goods,Amazon,9,209.16,0.1,1694.2,609.14
+2024-10-12,East,Apparel,Amazon,4,320.72,0.1,1154.59,515.85
+2024-10-12,North,Home Goods,Direct Web,6,74.41,0.2,357.17,152.37
+2024-10-12,East,Office Supplies,Amazon,2,17.36,0.2,27.78,11.47
+2024-10-13,South,Home Goods,Amazon,2,284.84,0.05,541.2,231.25
+2024-10-13,East,Electronics,Amazon,2,40.73,0.0,81.46,31.09
+2024-10-13,North,Home Goods,Amazon,10,153.59,0.2,1228.72,315.87
+2024-10-13,East,Apparel,Retail Partner,7,242.43,0.05,1612.16,561.28
+2024-10-14,South,Home Goods,Amazon,13,94.33,0.0,1226.29,397.92
+2024-10-14,West,Home Goods,Amazon,2,43.13,0.05,81.95,31.04
+2024-10-14,North,Electronics,Retail Partner,12,272.96,0.05,3111.74,1198.96
+2024-10-14,East,Home Goods,Amazon,13,226.11,0.1,2645.49,1178.22
+2024-10-15,West,Home Goods,Direct Web,2,346.14,0.05,657.67,230.14
+2024-10-15,North,Office Supplies,Amazon,9,130.34,0.0,1173.06,414.42
+2024-10-15,West,Office Supplies,Direct Web,7,35.69,0.2,199.86,83.63
+2024-10-15,East,Apparel,Direct Web,11,261.01,0.1,2584.0,767.8
+2024-10-16,North,Office Supplies,Amazon,3,189.78,0.05,540.87,190.1
+2024-10-16,North,Office Supplies,Retail Partner,3,86.42,0.0,259.26,99.09
+2024-10-16,East,Office Supplies,Retail Partner,7,276.88,0.0,1938.16,815.23
+2024-10-16,North,Office Supplies,Direct Web,5,83.26,0.05,395.48,134.29
+2024-10-17,South,Electronics,Amazon,10,102.32,0.0,1023.2,306.38
+2024-10-17,North,Office Supplies,Direct Web,14,46.0,0.0,644.0,253.48
+2024-10-17,East,Electronics,Retail Partner,14,148.81,0.1,1875.01,761.71
+2024-10-17,North,Electronics,Retail Partner,6,155.34,0.05,885.44,306.02
+2024-10-17,West,Office Supplies,Amazon,13,187.38,0.05,2314.14,969.47
+2024-10-18,West,Home Goods,Amazon,12,252.5,0.0,3030.0,959.53
+2024-10-18,West,Electronics,Amazon,8,318.54,0.05,2420.9,796.31
+2024-10-18,East,Home Goods,Amazon,9,61.14,0.1,495.23,214.23
+2024-10-18,North,Home Goods,Direct Web,1,33.21,0.0,33.21,14.7
+2024-10-19,East,Office Supplies,Direct Web,3,21.21,0.0,63.63,20.74
+2024-10-19,North,Apparel,Amazon,11,63.11,0.05,659.5,257.96
+2024-10-19,North,Office Supplies,Amazon,7,235.41,0.2,1318.3,570.44
+2024-10-19,North,Apparel,Direct Web,6,258.7,0.05,1474.59,439.6
+2024-10-20,South,Apparel,Retail Partner,7,278.48,0.0,1949.36,754.78
+2024-10-20,East,Office Supplies,Direct Web,8,96.64,0.0,773.12,276.84
+2024-10-20,East,Office Supplies,Amazon,6,117.47,0.1,634.34,255.41
+2024-10-20,South,Apparel,Amazon,3,176.85,0.0,530.55,172.18
+2024-10-21,North,Office Supplies,Amazon,2,36.17,0.05,68.72,26.78
+2024-10-21,West,Apparel,Amazon,12,219.73,0.05,2504.92,642.25
+2024-10-21,South,Home Goods,Direct Web,7,344.55,0.0,2411.85,746.25
+2024-10-21,South,Office Supplies,Direct Web,12,135.87,0.1,1467.4,620.2
+2024-10-22,North,Home Goods,Amazon,12,267.2,0.1,2885.76,1058.1
+2024-10-22,East,Electronics,Amazon,12,182.51,0.05,2080.61,775.89
+2024-10-22,East,Home Goods,Direct Web,11,57.82,0.0,636.02,218.25
+2024-10-22,North,Home Goods,Amazon,1,210.05,0.0,210.05,59.15
+2024-10-23,North,Apparel,Direct Web,3,115.46,0.05,329.06,109.68
+2024-10-23,East,Home Goods,Amazon,12,26.53,0.05,302.44,132.37
+2024-10-23,East,Office Supplies,Amazon,11,227.7,0.0,2504.7,798.79
+2024-10-23,North,Apparel,Direct Web,4,302.74,0.0,1210.96,542.93
+2024-10-24,West,Electronics,Direct Web,13,130.5,0.0,1696.5,498.78
+2024-10-24,North,Office Supplies,Amazon,14,145.75,0.2,1632.4,516.94
+2024-10-24,South,Electronics,Amazon,1,313.49,0.1,282.14,109.54
+2024-10-24,West,Home Goods,Amazon,5,287.56,0.2,1150.24,450.33
+2024-10-25,South,Office Supplies,Amazon,10,254.51,0.0,2545.1,738.96
+2024-10-25,East,Office Supplies,Amazon,3,98.35,0.2,236.04,69.24
+2024-10-25,South,Electronics,Retail Partner,2,319.92,0.0,639.84,242.84
+2024-10-25,North,Office Supplies,Amazon,3,66.73,0.05,190.18,74.21
+2024-10-26,West,Office Supplies,Direct Web,8,224.97,0.1,1619.78,547.54
+2024-10-26,South,Office Supplies,Direct Web,6,24.65,0.0,147.9,66.31
+2024-10-26,West,Home Goods,Direct Web,13,230.65,0.05,2848.53,1234.74
+2024-10-26,North,Electronics,Amazon,14,107.84,0.0,1509.76,641.29
+2024-10-26,North,Office Supplies,Direct Web,7,165.64,0.0,1159.48,478.77
+2024-10-27,North,Apparel,Retail Partner,12,130.66,0.05,1489.52,517.75
+2024-10-27,East,Apparel,Amazon,6,72.87,0.05,415.36,104.48
+2024-10-27,South,Apparel,Amazon,6,223.36,0.1,1206.14,385.33
+2024-10-27,West,Apparel,Direct Web,12,310.46,0.05,3539.24,1549.27
+2024-10-28,South,Home Goods,Direct Web,3,336.29,0.05,958.43,330.55
+2024-10-28,West,Office Supplies,Direct Web,12,79.44,0.0,953.28,334.29
+2024-10-28,North,Electronics,Direct Web,13,255.32,0.0,3319.16,1397.92
+2024-10-28,West,Office Supplies,Direct Web,14,237.55,0.2,2660.56,707.56
+2024-10-29,East,Home Goods,Amazon,8,130.03,0.0,1040.24,376.41
+2024-10-29,East,Apparel,Retail Partner,12,21.4,0.05,243.96,61.26
+2024-10-29,West,Home Goods,Retail Partner,7,246.08,0.0,1722.56,630.43
+2024-10-29,East,Office Supplies,Amazon,7,331.74,0.1,2089.96,686.36
+2024-10-30,East,Electronics,Direct Web,6,226.76,0.1,1224.5,525.37
+2024-10-30,North,Home Goods,Retail Partner,5,160.82,0.0,804.1,288.8
+2024-10-30,North,Electronics,Retail Partner,10,190.93,0.0,1909.3,768.01
+2024-10-30,West,Home Goods,Direct Web,8,81.88,0.05,622.29,176.04
+2024-10-31,East,Electronics,Amazon,5,266.43,0.0,1332.15,390.61
+2024-10-31,East,Electronics,Direct Web,9,265.05,0.0,2385.45,680.24
+2024-10-31,South,Apparel,Amazon,9,63.75,0.1,516.38,157.64
+2024-10-31,North,Electronics,Retail Partner,1,309.12,0.0,309.12,87.62
+2024-11-01,North,Apparel,Direct Web,6,105.18,0.1,567.97,232.77
+2024-11-01,East,Office Supplies,Retail Partner,7,344.06,0.05,2288.0,822.74
+2024-11-01,South,Office Supplies,Amazon,3,143.27,0.0,429.81,133.94
+2024-11-01,North,Apparel,Retail Partner,7,74.59,0.05,496.02,159.98
+2024-11-02,South,Apparel,Direct Web,11,132.83,0.05,1388.07,425.76
+2024-11-02,North,Home Goods,Amazon,11,162.46,0.0,1787.06,724.02
+2024-11-02,South,Home Goods,Direct Web,7,38.22,0.05,254.16,109.37
+2024-11-02,North,Home Goods,Direct Web,14,208.7,0.0,2921.8,779.06
+2024-11-03,East,Office Supplies,Direct Web,13,215.21,0.0,2797.73,945.54
+2024-11-03,North,Home Goods,Retail Partner,11,262.54,0.0,2887.94,1210.72
+2024-11-03,South,Electronics,Amazon,2,24.77,0.0,49.54,14.43
+2024-11-03,North,Electronics,Retail Partner,7,196.31,0.0,1374.17,366.92
+2024-11-04,North,Home Goods,Retail Partner,1,32.72,0.05,31.08,12.93
+2024-11-04,South,Electronics,Direct Web,5,249.88,0.05,1186.93,340.08
+2024-11-04,South,Office Supplies,Direct Web,9,33.67,0.05,287.88,75.81
+2024-11-04,East,Electronics,Direct Web,7,320.43,0.1,2018.71,529.56
+2024-11-04,North,Office Supplies,Direct Web,7,250.2,0.1,1576.26,421.13
+2024-11-05,East,Apparel,Direct Web,11,184.98,0.05,1933.04,658.62
+2024-11-05,West,Apparel,Direct Web,13,162.9,0.05,2011.81,761.99
+2024-11-05,East,Apparel,Direct Web,12,58.78,0.0,705.36,316.39
+2024-11-05,North,Apparel,Direct Web,2,112.48,0.1,202.46,88.64
+2024-11-06,South,Electronics,Direct Web,8,306.1,0.0,2448.8,891.93
+2024-11-06,North,Home Goods,Direct Web,3,317.99,0.0,953.97,353.1
+2024-11-06,North,Electronics,Retail Partner,8,15.25,0.1,109.8,45.35
+2024-11-06,West,Office Supplies,Amazon,3,214.04,0.0,642.12,238.16
+2024-11-07,North,Electronics,Retail Partner,10,255.97,0.0,2559.7,1062.45
+2024-11-07,South,Electronics,Direct Web,7,222.28,0.05,1478.16,414.24
+2024-11-07,East,Office Supplies,Direct Web,2,42.36,0.05,80.48,31.42
+2024-11-07,East,Apparel,Amazon,4,87.94,0.1,316.58,104.56
+2024-11-08,South,Apparel,Direct Web,11,98.86,0.1,978.71,341.99
+2024-11-08,North,Apparel,Direct Web,6,293.63,0.0,1761.78,774.52
+2024-11-08,North,Home Goods,Direct Web,11,170.17,0.0,1871.87,489.59
+2024-11-08,South,Office Supplies,Direct Web,9,178.09,0.05,1522.67,524.64
+2024-11-09,North,Office Supplies,Direct Web,5,328.19,0.0,1640.95,631.75
+2024-11-09,South,Electronics,Direct Web,13,228.42,0.05,2820.99,1180.23
+2024-11-09,North,Home Goods,Amazon,9,316.05,0.0,2844.45,1087.42
+2024-11-09,North,Apparel,Direct Web,5,167.93,0.05,797.67,355.68
+2024-11-10,South,Home Goods,Direct Web,10,65.06,0.05,618.07,233.19
+2024-11-10,North,Office Supplies,Amazon,8,326.53,0.05,2481.63,852.94
+2024-11-10,South,Office Supplies,Direct Web,13,168.67,0.05,2083.07,574.15
+2024-11-10,East,Electronics,Direct Web,13,75.85,0.05,936.75,292.76
+2024-11-11,West,Electronics,Retail Partner,1,116.3,0.0,116.3,49.74
+2024-11-11,North,Office Supplies,Direct Web,7,32.02,0.0,224.14,94.24
+2024-11-11,North,Apparel,Direct Web,4,171.88,0.0,687.52,250.52
+2024-11-11,North,Apparel,Direct Web,5,300.8,0.05,1428.8,587.03
+2024-11-12,East,Home Goods,Direct Web,6,327.75,0.0,1966.5,873.97
+2024-11-12,East,Office Supplies,Amazon,5,327.42,0.05,1555.24,449.46
+2024-11-12,North,Office Supplies,Amazon,12,56.95,0.0,683.4,304.86
+2024-11-12,West,Apparel,Direct Web,1,142.99,0.05,135.84,38.56
+2024-11-13,North,Apparel,Amazon,12,24.46,0.1,264.17,111.26
+2024-11-13,South,Office Supplies,Amazon,9,301.48,0.0,2713.32,692.07
+2024-11-13,East,Electronics,Direct Web,2,135.18,0.0,270.36,89.01
+2024-11-13,West,Office Supplies,Amazon,9,226.42,0.0,2037.78,617.45
+2024-11-14,East,Office Supplies,Direct Web,10,254.49,0.05,2417.66,1034.52
+2024-11-14,West,Apparel,Direct Web,2,159.0,0.05,302.1,83.86
+2024-11-14,North,Apparel,Direct Web,9,117.66,0.0,1058.94,298.79
+2024-11-14,West,Electronics,Direct Web,6,337.34,0.05,1922.84,614.16
+2024-11-14,North,Electronics,Direct Web,11,338.1,0.0,3719.1,1299.99
+2024-11-15,West,Home Goods,Amazon,9,111.96,0.05,957.26,292.64
+2024-11-15,South,Office Supplies,Direct Web,13,175.67,0.05,2169.52,973.71
+2024-11-15,West,Apparel,Direct Web,6,340.9,0.1,1840.86,610.27
+2024-11-15,South,Electronics,Direct Web,6,16.63,0.0,99.78,27.99
+2024-11-16,East,Home Goods,Amazon,13,153.25,0.1,1793.02,678.87
+2024-11-16,South,Home Goods,Amazon,11,48.65,0.1,481.64,206.31
+2024-11-16,East,Apparel,Amazon,14,185.57,0.0,2597.98,950.4
+2024-11-16,North,Apparel,Amazon,2,23.26,0.0,46.52,14.17
+2024-11-17,North,Home Goods,Retail Partner,8,151.31,0.05,1149.96,492.8
+2024-11-17,North,Electronics,Direct Web,3,88.93,0.1,240.11,98.15
+2024-11-17,North,Home Goods,Amazon,7,193.66,0.1,1220.06,513.02
+2024-11-17,West,Office Supplies,Amazon,5,348.66,0.05,1656.14,481.29
+2024-11-18,North,Office Supplies,Retail Partner,3,283.18,0.1,764.59,334.45
+2024-11-18,West,Apparel,Retail Partner,1,298.29,0.0,298.29,93.27
+2024-11-18,North,Electronics,Direct Web,8,227.81,0.0,1822.48,686.54
+2024-11-18,North,Electronics,Direct Web,3,28.92,0.2,69.41,20.74
+2024-11-19,East,Office Supplies,Direct Web,2,84.28,0.1,151.7,39.01
+2024-11-19,East,Home Goods,Amazon,1,324.9,0.05,308.65,131.82
+2024-11-19,South,Apparel,Direct Web,4,137.65,0.1,495.54,191.83
+2024-11-19,South,Home Goods,Direct Web,13,49.72,0.2,517.09,148.91
+2024-11-20,East,Home Goods,Amazon,8,250.31,0.1,1802.23,715.07
+2024-11-20,North,Home Goods,Direct Web,13,115.32,0.1,1349.24,549.11
+2024-11-20,West,Electronics,Retail Partner,3,105.07,0.1,283.69,80.83
+2024-11-20,West,Office Supplies,Direct Web,14,349.32,0.0,4890.48,1235.25
+2024-11-21,East,Electronics,Direct Web,1,302.48,0.1,272.23,92.18
+2024-11-21,North,Office Supplies,Direct Web,4,151.66,0.0,606.64,239.25
+2024-11-21,East,Apparel,Amazon,9,343.39,0.1,2781.46,1029.94
+2024-11-21,North,Apparel,Direct Web,13,232.79,0.05,2874.96,1195.91
+2024-11-22,North,Home Goods,Direct Web,1,263.58,0.05,250.4,74.52
+2024-11-22,North,Office Supplies,Retail Partner,12,25.56,0.05,291.38,86.05
+2024-11-22,South,Office Supplies,Direct Web,14,55.74,0.0,780.36,214.58
+2024-11-22,West,Office Supplies,Amazon,11,227.08,0.0,2497.88,1110.76
+2024-11-23,East,Home Goods,Amazon,2,316.17,0.2,505.87,170.78
+2024-11-23,East,Home Goods,Direct Web,9,223.95,0.2,1612.44,656.5
+2024-11-23,South,Apparel,Amazon,2,59.9,0.0,119.8,45.74
+2024-11-23,North,Electronics,Direct Web,13,53.78,0.2,559.31,163.88
+2024-11-23,South,Office Supplies,Amazon,3,297.8,0.1,804.06,330.95
+2024-11-24,West,Office Supplies,Direct Web,7,61.67,0.05,410.11,132.19
+2024-11-24,North,Electronics,Amazon,3,189.28,0.0,567.84,181.19
+2024-11-24,West,Office Supplies,Direct Web,9,27.43,0.2,197.5,51.19
+2024-11-24,South,Home Goods,Amazon,6,42.02,0.05,239.51,70.65
+2024-11-25,South,Home Goods,Direct Web,3,240.24,0.1,648.65,187.64
+2024-11-25,East,Office Supplies,Direct Web,9,245.88,0.1,1991.63,684.48
+2024-11-25,South,Home Goods,Direct Web,1,129.39,0.1,116.45,48.05
+2024-11-25,West,Home Goods,Direct Web,10,87.23,0.05,828.68,302.37
+2024-11-26,West,Office Supplies,Amazon,3,287.59,0.0,862.77,293.43
+2024-11-26,South,Apparel,Direct Web,1,87.73,0.0,87.73,27.57
+2024-11-26,North,Electronics,Retail Partner,2,196.58,0.0,393.16,129.14
+2024-11-26,South,Home Goods,Retail Partner,12,339.35,0.0,4072.2,1511.62
+2024-11-27,West,Apparel,Amazon,8,64.53,0.05,490.43,194.67
+2024-11-27,North,Home Goods,Direct Web,7,330.19,0.05,2195.76,914.21
+2024-11-27,East,Home Goods,Direct Web,2,76.27,0.1,137.29,42.73
+2024-11-27,East,Electronics,Amazon,2,205.09,0.0,410.18,131.64
+2024-11-28,East,Home Goods,Direct Web,9,141.3,0.05,1208.12,377.57
+2024-11-28,North,Electronics,Direct Web,13,338.25,0.0,4397.25,1651.14
+2024-11-28,East,Electronics,Amazon,13,106.64,0.0,1386.32,551.09
+2024-11-28,West,Electronics,Amazon,6,148.89,0.0,893.34,266.27
+2024-11-29,North,Apparel,Amazon,5,344.26,0.1,1549.17,457.42
+2024-11-29,North,Office Supplies,Direct Web,10,194.72,0.0,1947.2,698.8
+2024-11-29,West,Apparel,Amazon,6,183.38,0.1,990.25,324.42
+2024-11-29,North,Office Supplies,Direct Web,9,101.36,0.0,912.24,342.36
+2024-11-30,West,Office Supplies,Direct Web,11,249.96,0.1,2474.6,766.16
+2024-11-30,South,Electronics,Retail Partner,7,19.81,0.1,124.8,35.3
+2024-11-30,North,Home Goods,Direct Web,10,31.59,0.2,252.72,78.94
+2024-11-30,West,Electronics,Direct Web,10,215.79,0.1,1942.11,674.85
+2024-12-01,South,Home Goods,Direct Web,14,129.46,0.2,1449.95,519.47
+2024-12-01,South,Office Supplies,Retail Partner,9,334.36,0.1,2708.32,870.82
+2024-12-01,South,Electronics,Amazon,4,317.57,0.05,1206.77,378.97
+2024-12-01,South,Home Goods,Amazon,2,254.09,0.0,508.18,171.89
+2024-12-02,North,Apparel,Amazon,12,289.08,0.0,3468.96,1127.45
+2024-12-02,South,Home Goods,Direct Web,8,238.56,0.0,1908.48,821.95
+2024-12-02,West,Electronics,Direct Web,4,57.07,0.05,216.87,56.31
+2024-12-02,North,Apparel,Direct Web,13,271.46,0.05,3352.53,978.42
+2024-12-02,East,Home Goods,Direct Web,9,85.41,0.1,691.82,259.58
+2024-12-03,North,Home Goods,Direct Web,4,123.35,0.2,394.72,133.19
+2024-12-03,East,Home Goods,Retail Partner,8,289.44,0.05,2199.74,969.06
+2024-12-03,North,Home Goods,Direct Web,9,194.74,0.05,1665.03,735.53
+2024-12-03,West,Home Goods,Direct Web,13,303.08,0.2,3152.03,1260.31
+2024-12-04,South,Apparel,Direct Web,9,86.37,0.0,777.33,242.57
+2024-12-04,North,Office Supplies,Direct Web,10,218.61,0.1,1967.49,550.05
+2024-12-04,North,Apparel,Retail Partner,4,43.07,0.0,172.28,58.26
+2024-12-04,North,Apparel,Direct Web,1,230.43,0.05,218.91,75.21
+2024-12-05,South,Apparel,Direct Web,3,270.45,0.0,811.35,299.82
+2024-12-05,North,Office Supplies,Amazon,9,210.95,0.1,1708.7,713.69
+2024-12-05,West,Electronics,Direct Web,4,104.19,0.05,395.92,168.79
+2024-12-05,South,Office Supplies,Direct Web,5,25.5,0.0,127.5,37.98
+2024-12-06,North,Apparel,Direct Web,7,55.02,0.0,385.14,101.87
+2024-12-06,East,Home Goods,Amazon,5,223.47,0.05,1061.48,380.37
+2024-12-06,East,Home Goods,Retail Partner,4,328.03,0.2,1049.7,333.92
+2024-12-06,North,Apparel,Amazon,2,84.19,0.1,151.54,40.48
+2024-12-07,North,Home Goods,Direct Web,2,261.23,0.05,496.34,214.41
+2024-12-07,North,Apparel,Amazon,13,305.26,0.0,3968.38,1174.26
+2024-12-07,East,Home Goods,Direct Web,13,189.5,0.05,2340.32,764.43
+2024-12-07,East,Office Supplies,Direct Web,4,239.2,0.1,861.12,284.4
+2024-12-08,South,Electronics,Direct Web,10,288.03,0.1,2592.27,1014.85
+2024-12-08,West,Electronics,Direct Web,13,102.33,0.0,1330.29,416.68
+2024-12-08,West,Office Supplies,Amazon,10,114.46,0.1,1030.14,299.81
+2024-12-08,South,Office Supplies,Amazon,13,15.21,0.05,187.84,80.29
+2024-12-09,West,Apparel,Retail Partner,9,337.64,0.2,2431.01,834.56
+2024-12-09,North,Apparel,Amazon,8,322.38,0.2,2063.23,886.67
+2024-12-09,North,Apparel,Amazon,3,271.13,0.1,732.05,201.67
+2024-12-09,North,Home Goods,Direct Web,14,41.49,0.1,522.77,182.17
+2024-12-10,North,Apparel,Direct Web,9,164.91,0.0,1484.19,428.05
+2024-12-10,South,Office Supplies,Amazon,14,49.13,0.1,619.04,233.0
+2024-12-10,West,Electronics,Direct Web,5,20.33,0.05,96.57,41.04
+2024-12-10,North,Home Goods,Amazon,11,221.42,0.0,2435.62,1075.81
+2024-12-11,North,Apparel,Direct Web,3,336.88,0.0,1010.64,397.89
+2024-12-11,South,Home Goods,Direct Web,5,317.46,0.1,1428.57,573.08
+2024-12-11,West,Home Goods,Direct Web,13,248.41,0.0,3229.33,1091.29
+2024-12-11,North,Apparel,Direct Web,10,47.37,0.05,450.02,200.55
+2024-12-12,South,Home Goods,Direct Web,13,106.84,0.05,1319.47,456.39
+2024-12-12,North,Electronics,Amazon,4,122.22,0.0,488.88,181.69
+2024-12-12,North,Office Supplies,Direct Web,8,270.66,0.0,2165.28,724.45
+2024-12-12,West,Office Supplies,Amazon,13,283.75,0.1,3319.88,1027.56
+2024-12-12,West,Electronics,Direct Web,12,144.01,0.1,1555.31,502.65
+2024-12-13,North,Home Goods,Direct Web,5,154.99,0.0,774.95,196.12
+2024-12-13,West,Apparel,Direct Web,10,29.91,0.1,269.19,113.69
+2024-12-13,East,Home Goods,Amazon,12,111.86,0.1,1208.09,439.81
+2024-12-13,West,Electronics,Direct Web,8,166.18,0.05,1262.97,461.03
+2024-12-14,South,Home Goods,Amazon,9,54.19,0.1,438.94,160.91
+2024-12-14,South,Office Supplies,Direct Web,4,166.84,0.2,533.89,169.37
+2024-12-14,South,Home Goods,Amazon,7,300.81,0.05,2000.39,704.21
+2024-12-14,East,Electronics,Direct Web,2,209.74,0.0,419.48,145.36
+2024-12-15,North,Office Supplies,Amazon,6,41.44,0.2,198.91,72.31
+2024-12-15,North,Home Goods,Amazon,8,79.21,0.05,602.0,151.5
+2024-12-15,North,Home Goods,Retail Partner,12,173.97,0.0,2087.64,552.16
+2024-12-15,East,Office Supplies,Direct Web,7,136.1,0.05,905.06,351.58
+2024-12-16,North,Apparel,Direct Web,7,135.17,0.05,898.88,384.43
+2024-12-16,East,Office Supplies,Direct Web,8,192.3,0.1,1384.56,390.51
+2024-12-16,West,Apparel,Amazon,7,210.77,0.05,1401.62,351.2
+2024-12-16,North,Electronics,Amazon,5,281.95,0.0,1409.75,551.89
+2024-12-17,East,Electronics,Amazon,7,129.22,0.05,859.31,325.2
+2024-12-17,South,Office Supplies,Direct Web,13,284.83,0.05,3517.65,920.48
+2024-12-17,West,Office Supplies,Direct Web,14,128.43,0.0,1798.02,553.38
+2024-12-17,North,Electronics,Direct Web,10,33.57,0.05,318.91,124.65
+2024-12-18,East,Apparel,Retail Partner,3,200.65,0.1,541.76,180.83
+2024-12-18,West,Electronics,Amazon,5,211.95,0.0,1059.75,276.76
+2024-12-18,West,Office Supplies,Retail Partner,7,328.07,0.05,2181.67,627.53
+2024-12-18,East,Electronics,Direct Web,9,258.23,0.0,2324.07,701.02
+2024-12-19,South,Office Supplies,Amazon,2,322.45,0.0,644.9,195.15
+2024-12-19,East,Office Supplies,Amazon,4,319.3,0.0,1277.2,529.27
+2024-12-19,West,Electronics,Direct Web,12,217.53,0.0,2610.36,744.12
+2024-12-19,South,Apparel,Amazon,7,191.8,0.1,1208.34,477.02
+2024-12-20,North,Home Goods,Retail Partner,1,201.74,0.0,201.74,53.24
+2024-12-20,West,Electronics,Retail Partner,13,342.74,0.1,4010.06,1512.08
+2024-12-20,East,Home Goods,Amazon,2,274.01,0.0,548.02,152.61
+2024-12-20,East,Electronics,Direct Web,9,50.6,0.2,364.32,144.55
+2024-12-21,North,Home Goods,Direct Web,13,275.77,0.05,3405.76,1182.12
+2024-12-21,East,Apparel,Retail Partner,10,72.13,0.1,649.17,278.25
+2024-12-21,South,Apparel,Direct Web,7,164.86,0.0,1154.02,366.95
+2024-12-21,East,Electronics,Amazon,12,85.5,0.05,974.7,275.63
+2024-12-21,North,Office Supplies,Amazon,10,246.01,0.0,2460.1,753.55
+2024-12-22,East,Home Goods,Amazon,7,308.9,0.2,1729.84,597.4
+2024-12-22,West,Office Supplies,Retail Partner,6,112.27,0.05,639.94,282.2
+2024-12-22,North,Office Supplies,Direct Web,3,42.47,0.05,121.04,31.87
+2024-12-22,West,Office Supplies,Direct Web,10,115.0,0.1,1035.0,319.71
+2024-12-23,South,Apparel,Direct Web,3,240.24,0.0,720.72,216.81
+2024-12-23,West,Electronics,Direct Web,2,125.13,0.1,225.23,65.56
+2024-12-23,East,Electronics,Direct Web,11,108.17,0.05,1130.38,339.62
+2024-12-23,South,Apparel,Direct Web,6,76.79,0.1,414.67,150.02
+2024-12-24,East,Apparel,Amazon,4,181.67,0.05,690.35,209.37
+2024-12-24,West,Electronics,Retail Partner,5,107.44,0.0,537.2,174.59
+2024-12-24,South,Office Supplies,Direct Web,3,259.89,0.0,779.67,217.68
+2024-12-24,North,Home Goods,Direct Web,6,40.67,0.1,219.62,63.58
+2024-12-25,East,Home Goods,Retail Partner,11,237.45,0.05,2481.35,1096.07
+2024-12-25,West,Home Goods,Direct Web,12,94.58,0.05,1078.21,403.49
+2024-12-25,East,Office Supplies,Direct Web,3,178.91,0.2,429.38,190.24
+2024-12-25,East,Electronics,Direct Web,14,110.84,0.0,1551.76,666.61
+2024-12-26,South,Apparel,Amazon,14,257.13,0.1,3239.84,1068.23
+2024-12-26,West,Electronics,Direct Web,8,331.68,0.2,2122.75,584.26
+2024-12-26,North,Office Supplies,Retail Partner,9,322.22,0.1,2609.98,1111.94
+2024-12-26,South,Apparel,Direct Web,4,210.45,0.1,757.62,272.58
+2024-12-27,North,Office Supplies,Amazon,9,169.97,0.0,1529.73,409.7
+2024-12-27,North,Home Goods,Direct Web,12,289.13,0.0,3469.56,996.25
+2024-12-27,South,Home Goods,Direct Web,7,243.91,0.1,1536.63,531.78
+2024-12-27,South,Office Supplies,Amazon,3,76.49,0.0,229.47,67.85
+2024-12-28,East,Apparel,Amazon,7,290.01,0.0,2030.07,701.31
+2024-12-28,South,Apparel,Amazon,14,158.68,0.1,1999.37,836.5
+2024-12-28,South,Electronics,Amazon,1,78.31,0.0,78.31,33.29
+2024-12-28,North,Home Goods,Retail Partner,3,109.4,0.2,262.56,108.26
+2024-12-29,South,Electronics,Amazon,6,104.62,0.1,564.95,214.58
+2024-12-29,North,Electronics,Amazon,4,188.93,0.1,680.15,179.49
+2024-12-29,North,Office Supplies,Direct Web,7,93.51,0.1,589.11,170.88
+2024-12-29,East,Office Supplies,Direct Web,14,56.39,0.1,710.51,258.23
+2024-12-30,East,Electronics,Direct Web,3,56.44,0.1,152.39,53.55
+2024-12-30,East,Home Goods,Amazon,1,210.4,0.05,199.88,79.33
+2024-12-30,South,Office Supplies,Direct Web,9,261.14,0.0,2350.26,726.53
+2024-12-30,South,Electronics,Direct Web,6,122.71,0.1,662.63,191.8
+2024-12-31,West,Electronics,Retail Partner,8,26.61,0.1,191.59,77.06
