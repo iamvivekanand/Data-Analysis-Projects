@@ -1,8 +1,6 @@
 import streamlit as st
-import importlib
-import query_engine
-importlib.reload(query_engine)
 import pandas as pd
+import numpy as np
 import plotly.express as px
 import os
 import query_engine
@@ -16,6 +14,34 @@ st.set_page_config(
 
 st.title("💡 Conversational Business Intelligence Engine")
 st.markdown("Natural Language se dynamic SQL queries execute karein aur automated visual analytics dekhein.")
+
+# Auto-generate dataset helper function if missing
+def generate_default_data():
+    np.random.seed(42)
+    n_rows = 1500
+    dates = pd.date_range(start="2024-01-01", end="2024-12-31", periods=n_rows)
+    regions = np.random.choice(["North", "South", "East", "West"], size=n_rows, p=[0.35, 0.25, 0.20, 0.20])
+    categories = np.random.choice(["Electronics", "Apparel", "Home Goods", "Office Supplies"], size=n_rows)
+    channels = np.random.choice(["Direct Web", "Amazon", "Retail Partner"], size=n_rows, p=[0.50, 0.35, 0.15])
+    units_sold = np.random.randint(1, 15, size=n_rows)
+    unit_price = np.random.uniform(15.0, 350.0, size=n_rows).round(2)
+    discount_pct = np.random.choice([0.0, 0.05, 0.10, 0.20], size=n_rows, p=[0.4, 0.3, 0.2, 0.1])
+    gross_sales = (units_sold * unit_price).round(2)
+    revenue = (gross_sales * (1 - discount_pct)).round(2)
+    cogs = (revenue * np.random.uniform(0.55, 0.75, size=n_rows)).round(2)
+    profit = (revenue - cogs).round(2)
+
+    return pd.DataFrame({
+        "Order_Date": dates.strftime("%Y-%m-%d"),
+        "Region": regions,
+        "Category": categories,
+        "Sales_Channel": channels,
+        "Units_Sold": units_sold,
+        "Unit_Price": unit_price,
+        "Discount_Pct": discount_pct,
+        "Revenue": revenue,
+        "Profit": profit
+    })
 
 # Sidebar Configuration
 st.sidebar.header("Configuration")
@@ -31,8 +57,9 @@ elif os.path.exists(default_data_path):
     df = pd.read_csv(default_data_path)
     st.sidebar.info(f"Sample E-commerce Data Loaded: {len(df):,} rows")
 else:
-    st.error("Dataset nahi mila! Pehle data_generator.py chalayein ya CSV upload karein.")
-    st.stop()
+    # Agar local ya cloud par CSV nahi milti toh automatic create kar lega
+    df = generate_default_data()
+    st.sidebar.info(f"Default E-commerce Data Initialized: {len(df):,} rows")
 
 # Schema & DuckDB Setup
 schema_dict = {col: str(dtype) for col, dtype in df.dtypes.items()}
