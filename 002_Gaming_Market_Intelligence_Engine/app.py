@@ -19,21 +19,21 @@ st.set_page_config(
 st.title("Gaming Market Intelligence Engine")
 st.caption("Enterprise-grade conversational analytics powered by DuckDB, Gemini, and Plotly.")
 
+from pathlib import Path
+
 # Dataset Loading
 @st.cache_data
 def load_vgsales_data():
-    file_path = os.path.join("data", "vgsales.csv")
-    if not os.path.exists(file_path):
+    # app.py की अपनी लोकेशन के आधार पर absolute path निकालें
+    base_dir = Path(__file__).resolve().parent
+    file_path = base_dir / "data" / "vgsales.csv"
+
+    if not file_path.exists():
         return None
+
     df = pd.read_csv(file_path)
     df["Year"] = pd.to_numeric(df["Year"], errors="coerce")
     return df
-
-df = load_vgsales_data()
-
-if df is None:
-    st.error("Dataset 'data/vgsales.csv' nahi mila! Kripya CSV file ko data folder me place karein.")
-    st.stop()
 
 # DuckDB setup
 schema_dict = {col: str(dtype) for col, dtype in df.dtypes.items()}
