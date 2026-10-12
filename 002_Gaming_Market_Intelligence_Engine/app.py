@@ -21,19 +21,34 @@ st.caption("Enterprise-grade conversational analytics powered by DuckDB, Gemini,
 
 from pathlib import Path
 
-# Dataset Loading
+from pathlib import Path
+import os
+import pandas as pd
+import streamlit as st
+
+# 1. Pehle function define karein
 @st.cache_data
 def load_vgsales_data():
-    # app.py की अपनी लोकेशन के आधार पर absolute path निकालें
     base_dir = Path(__file__).resolve().parent
     file_path = base_dir / "data" / "vgsales.csv"
 
     if not file_path.exists():
         return None
 
-    df = pd.read_csv(file_path)
-    df["Year"] = pd.to_numeric(df["Year"], errors="coerce")
-    return df
+    data = pd.read_csv(file_path)
+    data["Year"] = pd.to_numeric(data["Year"], errors="coerce")
+    return data
+
+# 2. Function define hone ke turant baad df assign karein
+df = load_vgsales_data()
+
+# 3. Fir check karein ki data mila ya nahi
+if df is None:
+    st.error("Dataset 'data/vgsales.csv' nahi mila! Kripya CSV file ko data folder me place karein.")
+    st.stop()
+
+# 4. Iske baad hi df ka koi bhi operation (schema, KPIs, etc.) aana chahiye
+schema_dict = {col: str(dtype) for col, dtype in df.dtypes.items()}
 
 # DuckDB setup
 schema_dict = {col: str(dtype) for col, dtype in df.dtypes.items()}
